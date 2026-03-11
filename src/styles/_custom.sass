@@ -15,7 +15,7 @@
     transform: translateY(20px)
   100%
     transform: translateY(0px)
-  
+
 ///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
 .banner-principal .tarjeta
   background-position: left 50% !important
@@ -43,3 +43,359 @@ figcaption
     background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
   @media screen and (max-width: $bp-max-sm)
     background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
+
+///// utilidades --------------------------------------
+.img65
+  width: 65px
+.img90
+  width: 90px
+.img250
+  width: 250px
+.brd--rad
+  border-radius: 20px
+.hr--line
+  margin: 1rem 0
+  width: 100%
+  height: 1px
+  background-color: #B0C0D2
+.b--rad
+  border-radius: 0px 0px 20px 20px
+.bg--gradientBlue
+  background: linear-gradient(0deg, rgba(215,236,252,1) 0%, rgba(239,246,252,1) 100%)
+
+.dialogo.color-primario .dialogo__words__word
+  color: #3c7792 !important
+
+.bg-02::before
+  background-color: #FFEDE7
+
+.bg-03
+  background-color: #D8E9FB
+
+.bg-04
+  background-color: #FFF6DE
+
+.bg-05
+  background-color: #CCF9E6
+
+.bg-06
+  background-color: #D9F3FF
+
+.bg-07
+  background-color: #EFF3F6
+
+.bg-08
+  background-color: #FF9751
+
+.bg-09
+  background-color: #02DD84
+
+.cajon.bg-10
+  background-color: #CCE9E5
+.cajon.bg-10::before
+  background-color: #01927F
+
+.cajon.bg-05
+  background-color: #EEFBF5
+.cajon.bg-05::before
+  background-color: #ADECD1
+
+.cajon.bg-11
+  background-color: #D9F3FF
+.cajon.bg-11::before
+  background-color: #43C0FF
+
+.cajon.bg-99
+  background-color: #FFF6DE
+.cajon.bg-99::before
+  background-color: #FFD75E
+
+.cajon.bg-97
+  background-color: #EBF4FD
+.cajon.bg-97::before
+  background-color: #A0C9F6
+
+.cajon.bg-96
+  background-color: #DEF7EC !important
+.cajon.bg-96::before
+  background-color: #ADECD1 !important
+
+.bg-color-1
+  background-image: url("../assets/curso/tema1/img_62.svg") !important
+  background-repeat: no-repeat
+  height: 82px
+
+.bg-c1
+  background-color: $color-primario
+  width: max-content
+  border-radius: 5px
+
+.h-45
+  height: 45px
+  margin-left: -10px
+
+.w-35
+  width: 30% !important
+
+.ocultar
+  display: block
+  @media (max-width: 992px)
+    display: none
+  @media (max-width: 768px)
+    display: none
+  @media (max-width: 576px)
+    display: none
+  @media (max-width: 412px)
+    display: none
+  @media (max-width: 390px)
+    display: none
+
+.mostrar
+  display: none
+  @media (max-width: 992px)
+    display: block
+  @media (max-width: 768px)
+    display: block
+  @media (max-width: 576px)
+    display: block
+  @media (max-width: 412px)
+    display: block
+  @media (max-width: 390px)
+    display: block
+
+.lista-ol--cuadro__vineta
+  background-color: $color-primario !important
+
+.lista-ul--color li > i:first-of-type
+  color: $color-primario !important
+
+.th, .td
+  border: 1px solid black
+  padding: 8px
+  text-align: center
+  background-color: #00796B
+  color: white
+
+.th_1
+  background-color: $color-primario !important
+  color: white
+
+.th_2
+  background-color: #99D3CC !important
+  color: #12263F
+
+.text-primario
+  color: $color-primario !important
+
+.tarjeta
+  .banner_tarjeta
+    background-image: url("../assets/curso/tema4/bg.png") !important
+    border-radius: 40px 0px 40px 0px !important
+    background-size: cover
+
+.slyder_1
+  .slyder-a__bullets__item--active
+    background-color: #A0C9F6
+    border-color: #A0C9F6
+  .slyder-a__bullets__item
+    background-color: #A0C9F6
+
+.bg-12
+  background-color: #FFF6F3 !important
+
+.bg-13
+  background-color: #FFE9E1 !important
+
+.bg-14
+  background-color: #DEE4F0 !important
+
+.img_fondo_1
+  background-image: url("../assets/curso/tema1/img_4.png") !important
+  background-size: cover
+
+.img_fondo_2
+  background-image: url("../assets/curso/tema3/bg.png") !important
+  background-size: cover
+
+.img_fondo_3
+  background-image: url("../assets/curso/tema1/img_60.png") !important
+  background-size: cover
+
+.banner-principal__img img
+  max-width: 415px !important
+
+.lista-ul--color.lista-ul--separador
+  list-style: none
+  padding-left: 0
+
+.lista-ul--color.lista-ul--separador li
+  position: relative
+  padding-left: 25px
+
+.lista-ul--color.lista-ul--separador li i
+  position: absolute
+  left: 0
+  top: 0
+
+.lista-ul--color.lista-ul--separador li::before
+  content: ''
+  display: block
+  margin-left: 25px
+  text-indent: 0
+
+.lista-ul--cuadro.lista-ul.color-primario
+  list-style: none
+  padding-left: 0
+
+.lista-ul--cuadro.lista-ul.color-primario li
+  display: flex
+  align-items: flex-start
+
+.lista-ol--cuadro__vineta
+  flex-shrink: 0
+  margin-right: 10px
+
+.lista-ol--cuadro__vineta span
+  display: inline-block
+  width: 20px
+  text-align: center
+
+.lista-ul--cuadro.lista-ul.color-primario li::before
+  content: ''
+  margin-left: 10px
+
+@media (max-width: 991.98px)
+  .img-responsive
+    width: 83.33333%
+
+  .ordenar_tarjeta
+    .col-md-8
+      width: 100%
+
+    .col-md-4
+      width: 100%
+
+    .col-md-5
+      width: 100%
+
+    .col-md-7
+      width: 100%
+
+@media (max-width: 767.98px)
+  .ordenar_tarjeta
+    .col-md-4
+      order: 2
+
+    .col-md-8
+      order: 1
+
+@media (min-width: 767.98px)
+  .img-responsive
+    width: auto
+
+.linea-tiempo-d__item--selected, .linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content,.tarjeta,.tarjeta--gris
+    background-color: #FFE9DB !important
+  .linea-tiempo-d__item__number
+    background-color: #FF9751 !important
+.linea-tiempo-d__item__number
+  background-color: #F6F6F6 !important
+
+.linea-tiempo-d__item__dots:after
+  border-left: 5px dotted #C7C7C7 !important
+
+@media (max-width: 768.98px)
+  .slyder_2
+    .col-lg-6
+      width: 50% !important
+
+.barra-avance__boton--regresar:hover
+  span
+    color: white !important
+
+.encabezado_tabla
+  background-color: #A0C9F6 !important
+
+.negrita
+  font-weight: bold
+
+.letra_tabla
+  color: #b16838 !important
+  font-weight: bold
+
+.pie_tabla
+  background-color: #ffd5b8 !important
+  font-weight: bold
+
+th, td
+  border: 1px solid #e1e1e1 !important
+  border-collapse: collapse !important
+
+p
+  overflow-wrap: break-word
+
+.bg-98
+  background-color: #D8E9FB !important
+
+.bg-97
+  background-color: #EBF4FD !important
+
+.bg-96
+  background-color: #EEFBF5 !important
+
+.bg-95
+  background-color: #DBE8E0 !important
+
+.bg-94
+  background-color: #DEF7EC !important
+
+.bg-93
+  background-color: #FFEEBD !important
+
+.bg-92
+  background-color: #A0C9F6 !important
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content, .linea-tiempo-d__item--selected .tarjeta, .linea-tiempo-d__item--selected .tarjeta--gris, .linea-tiempo-d__item--selected .linea-tiempo-d__item__content, .linea-tiempo-d__item--selected .tarjeta, .linea-tiempo-d__item--selected .tarjeta--gris
+  background-color: #EBF4FD !important
+
+.linea-tiempo-d.color-acento-contenido .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #FFD75E !important
+
+.lista-ol--cuadro__vineta
+  color: #12263F !important
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #FF8E6B !important
+  opacity: 0 !important
+
+.img-fnd-flot8
+  position: relative
+  width: 100%
+  .b-img8
+    display: block
+    width: 14rem
+  .b-img9
+    display: block
+    width: 15rem
+  .fl-box8
+    position: absolute
+    top: 50%
+    transform: translateY(-50%)
+    padding-left: 2.4rem
+
+  // ---- Subtitulos ----- //
+.subtitle
+  background: #F1F3FB
+  background-size: cover
+  background-position: right
+  border-radius: 0px 50px 0px 0px
+  display: inline-block
+  padding: 10px 20px 10px 40px
+  padding-right: 40px
+  position: relative
+
+  .image
+    position: absolute
+    width: 40px
+    top: -15px
+    left: -5px
