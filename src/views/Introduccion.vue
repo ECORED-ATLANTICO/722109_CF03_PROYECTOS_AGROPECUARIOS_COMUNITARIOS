@@ -16,6 +16,9 @@
         figure.mb-5(data-aos="fade-right")
           .video.mb-2
             <iframe width="560" height="315" src="https://www.youtube.com/embed/11nSFfxNmQ4" alt="A continuación en el enlace se muestra la formulación de los componentes de estudio para proyectos agropecuarios." title="Introducción" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          figcaption Nota. SENA, (2026).
+
+
         .col-lg-12
           .cajon.bg-99.p-4.ps-5.bg_18.mb-4.mb-lg-0
             p.mb-0 La formulación del proyecto también es conocida como la etapa o estudio de pre-inversión; la formulación está compuesta por componentes o estudios que son una serie de acciones que continuamente van afianzando la toma de decisión de realizar la inversión del recurso dinero, en un objetivo determinado;  estas acciones son el paso siguiente a la identificación del problema (enfoque de marco lógico); los cinco (5) componentes o estudios necesarios para la formulación del proyecto agropecuario son: estudio de mercado, estudio técnico, estudio administrativo, estudio ambiental y estudio financiero, estos se describen a continuación. 

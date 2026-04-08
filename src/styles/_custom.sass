@@ -18,6 +18,7 @@
 
 ///////////CUSTOM BANNER PRINCIPAL E INTERNO/////////////
 .banner-principal .tarjeta
+  background-color: #ADECD1
   background-position: left 50% !important
 
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
@@ -69,6 +70,32 @@ figcaption
 .bg-02::before
   background-color: #FFEDE7
 
+.bloque-texto-b i::before
+  color: #FF8E6B
+
+.bg-full-width
+  margin: 0 -3em
+  padding: 0 3rem
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 3rem
+    padding-right: 3rem
+
+.bg-fondo-1
+  background-image: url("../assets/curso/tema2/bg01.png") !important
+  background-position: bottom
+  background-size: cover
+
+.bg-fondo-2
+  background-image: url("../assets/curso/tema1/bg02.png") !important
+  background-position: bottom
+  background-size: cover
+
+.bg-78::before
+  background-color: #FFF6DE
+
 .bg-03
   background-color: #D8E9FB
 
@@ -89,6 +116,32 @@ figcaption
 
 .bg-09
   background-color: #02DD84
+
+.bg-tarjeta
+  background-image: url("../assets/curso/tema1/bg-tarjeta.png") !important
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center
+  border-radius: 15px !important
+  @media (max-width: $bp-max-md)
+    background-image: none !important
+    background-color: #E2F5FC // Light blue color from the image
+    border-radius: 15px !important
+
+.icon-tarjeta
+  width: 150px
+  @media (max-width: $bp-max-md)
+    width: 100px
+  @media (max-width: $bp-max-sm)
+    width: 80px
+
+.tarjeta-avatar-b__img
+  img
+    width: 150px
+    @media (max-width: $bp-max-md)
+      width: 100px
+    @media (max-width: $bp-max-sm)
+      width: 80px
 
 .cajon.bg-10
   background-color: #CCE9E5
@@ -366,7 +419,7 @@ p
 
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
   background-color: #FF8E6B !important
-  opacity: 0 !important
+  opacity: 100% !important
 
 .img-fnd-flot8
   position: relative
@@ -399,3 +452,18 @@ p
     width: 40px
     top: -15px
     left: -5px
+
+.slyder-f__btn i
+  background-color: #FF8E6B
+  color: #12263F
+  width: 36px
+  height: 36px
+  border-radius: 50%
+  display: flex
+  justify-content: center
+  align-items: center
+  font-size: 18px
+  @media (max-width: 768.98px)
+    width: 20px
+    height: 20px
+    font-size: 12px

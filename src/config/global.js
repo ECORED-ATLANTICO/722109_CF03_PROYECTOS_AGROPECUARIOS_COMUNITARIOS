@@ -364,105 +364,105 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Agrosana. (2015). Política de Calidad. Agrosana.',
+      referencia: 'Agrosana. (2015). <em>Política de Calidad.</em> Agrosana.',
       link: 'https://agrosana.es/',
     },
     {
-      referencia: 'Agrosavia. (2021). Qué hacemos. Valores.',
+      referencia: 'Agrosavia. (2021). <em>Qué hacemos. Valores.</em>',
       link: 'https://www.agrosavia.co/qu%C3%A9-hacemos',
     },
     {
       referencia:
-        'Cámara de Comercio de Medellín. (2021). Guías de tipos societarios.',
+        'Cámara de Comercio de Medellín. (2021). <em>Guías de tipos societarios.</em>',
       link:
         'https://www.camaramedellin.com.co/Portals/0/Documentos/Guias-Mercantil/NuevaGuiaTipoSocietario__2022_002.pdf',
     },
     {
       referencia:
-        'Decreto 2616 de 2013. (Ministerio de Trabajo y Protección Social).',
+        '<em>Decreto 2616 de 2013.</em> (Ministerio de Trabajo y Protección Social).',
       link:
         'https://www.mintrabajo.gov.co/documents/20147/241327/decreto_2616_del_20_de_noviembre_de_2013.pdf',
     },
     {
       referencia:
-        'Enciclopedia Económica (2021). Mercadeo. Funciones del Mercado.',
+        'Enciclopedia Económica (2021). <em>Mercadeo. Funciones del Mercado.</em>',
       link: 'https://economipedia.com/definiciones/mercado.html',
     },
     {
-      referencia: 'FAO. (2018). Análisis FODA.',
+      referencia: 'FAO. (2018). <em>Análisis FODA.</em>',
       link: 'http://www.fao.org/3/CA1923ES/ca1923es.pdf',
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario. (2021). Buenas prácticas agrícolas y ganaderas. ICA.',
+        'Instituto Colombiano Agropecuario. (2021). <em>Buenas prácticas agrícolas y ganaderas.</em> ICA.',
       link: 'https://www.ica.gov.co/areas/agricola-pecuaria/bpa-bpg.aspx',
     },
     {
       referencia:
-        'Jimenez, L.W. (2010). Contabilidad de Costos. FOCO Ediciones Bogotá.',
+        'Jimenez, L.W. (2010). <em>Contabilidad de Costos.</em> FOCO Ediciones Bogotá.',
       link:
         'https://es.slideshare.net/slideshow/libro-contabilidadcostos-jimenez-william/250511946',
     },
     {
       referencia:
-        'Martínez, A.J. (2017). El ciclo de vida del producto. Econosublime.',
+        'Martínez, A.J. (2017). <em>El ciclo de vida del producto.</em> Econosublime.',
       link: 'http://www.econosublime.com/2020/01/ciclo-vida-producto.html',
     },
     {
       referencia:
-        'Mendieta. (2005). Formulación y evaluación de proyectos de inversión agropecuaria. Universidad Agraria. Nicaragua.',
+        'Mendieta. (2005). <em>Formulación y evaluación de proyectos de inversión agropecuaria.</em> Universidad Agraria. Nicaragua.',
       link: 'https://repositorio.una.edu.ni/2437/1/ne14m537.pdf',
     },
     {
       referencia:
-        'Ministerio de Trabajo y Protección Social. (2014). Abecé de la cotización por semanas.',
+        'Ministerio de Trabajo y Protección Social. (2014). <em>Abecé de la cotización por semanas.</em>',
       link:
         'https://www.mintrabajo.gov.co/documents/20147/241327/abece_cotizacion_por_semanas.pdf',
     },
     {
       referencia:
-        'Ministerio de Trabajo y Protección Social. (2021). Conoce los tipos de contrato de trabajo.',
+        'Ministerio de Trabajo y Protección Social. (2021). <em>Conoce los tipos de contrato de trabajo.</em>',
       link:
         'https://www.mintrabajo.gov.co/web/empleosinfronteras/conoce-los-tipos-de-contrato-de-trabajo',
     },
     {
       referencia:
-        'Miranda, M.J. (1999). Gestión de proyectos. Cuarta Edición. MM Editores.',
+        'Miranda, M.J. (1999). <em>Gestión de proyectos.</em> Cuarta Edición. MM Editores.',
       link:
         'https://www.academia.edu/17688636/Gesti%C3%B3n_de_Proyectos_Juan_Jose_Miranda_Miranda',
     },
     {
       referencia:
-        'Nuño, L.P. (2012). Administración de Pequeñas Empresas. Red Tercer Milenio.',
+        'Nuño, L.P. (2012). <em>Administración de Pequeñas Empresas.</em> Red Tercer Milenio.',
       link:
         'https://www.academia.edu/36532308/Administraci%C3%B3n_de_peque%C3%B1as_empresas_PIERINA_DEL_REFUGIO_NU%C3%91O_DE_LEON',
     },
     {
       referencia:
-        'Puentes, M.G. 2011. Formulación y evaluación de proyectos agropecuarios. Ecoe.',
+        'Puentes, M.G. 2011. <em>Formulación y evaluación de proyectos agropecuarios.</em> Ecoe.',
       link:
         'https://www.ecoeediciones.com/producto/formulacion-y-evaluacion-de-proyectos-agropecuarios-ebook/',
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje. (2014). El Contrato de Trabajo. SENA.',
+        'Servicio Nacional de Aprendizaje. (2014). <em>El Contrato de Trabajo.</em> SENA.',
       link:
         'https://normograma.sena.edu.co/docs/concepto_sena_2014-02-0010360_2014.htm',
     },
     {
       referencia:
-        'Universidad Autónoma de México. Estudio Técnico. Facultad de Economía. (pp. 53-93).',
+        'Universidad Autónoma de México. <em>Estudio Técnico.</em> Facultad de Economía. (pp. 53-93).',
       link: 'http://www.economia.unam.mx/secss/docs/tesisfe/GomezAM/cap2a.pdf',
     },
     {
       referencia:
-        'Unidad de Planeación Minero Energética UPME. (2021). Normatividad Ambiental y Sanitaria.',
+        'Unidad de Planeación Minero Energética UPME. (2021). <em>Normatividad Ambiental y Sanitaria.</em>',
       link:
         'http://www.upme.gov.co/guia_ambiental/carbon/gestion/politica/normativ/normativ.htm#BM2_1_Normas_y_principios_ambientales_co',
     },
     {
       referencia:
-        'Ministerio de Trabajo y Protección Social. (2017). Información y Orientación laboral para la población colombiana en situación de retorno.',
+        'Ministerio de Trabajo y Protección Social. (2017). <em>Información y Orientación laboral para la población colombiana en situación de retorno.</em>',
       link:
         'https://www.mintrabajo.gov.co/documents/20147/59036289/CARTILLA+EMPLEO+RETORNO+op+3+completo+baja+11-10-2017.pdf',
     },

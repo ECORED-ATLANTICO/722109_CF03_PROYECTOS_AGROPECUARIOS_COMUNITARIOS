@@ -45,22 +45,21 @@
             img.image(src='@/assets/curso/tema1/img_62.svg', alt='Imagen decorativa')
       
     p.mb-4 Arriendo, sueldos administrativos, servicios públicos, amortizaciones, vigilancia, seguros, etc. Se mantienen más o menos constantes y generalmente no cambian en proporción directa con las ventas o unidades producidas. Jiménez, 2010, p. 25.
-
-    .row.justify-content-center.align-items-center.mb-3
-      .col-lg-10.mb-5
-        .tarjeta.p-2.banner_tarjeta
-          .row.justify-content-around.align-items-center.p-3
-            .col-auto
-              img(src="@/assets/curso/tema3/img_16.svg").img65
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Tabla 2.
-                  p.mb-0 Tabla de costos fijos, proyecto cacao asociado a plátano.
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 3_ Tabla 1 Algunas normas nacionales del sector agropecuario.xlsx')" target="_blank")
-                    span Consultar tabla
-                    i.fas.fa-file-excel
+                    
+    .row.justify-content-center.mb-5
+      .col-md-12.col-lg-10
+        .tarjeta-avatar-b.mb-3
+          .tarjeta-avatar-b__img
+            img.mx-auto(src='@/assets/curso/tema1/icon-tarjeta.svg' alt='', style="width: 100px;")
+          .tarjeta.bg-tarjeta.align-content-center
+            .row.align-items-center.justify-content-center.p-4
+              .col.mb-3.mb-sm-0
+                h4.mb-1 Tabla 2.
+                p.mb-0 Tabla de costos fijos, proyecto cacao asociado a plátano.
+              .col-sm-auto
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 3_ Tabla 1 Algunas normas nacionales del sector agropecuario.xlsx')" target="_blank")
+                  span Consultar tabla
+                  i.fas.fa-file-excel
                   
     
     .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
@@ -72,44 +71,43 @@
       
     p.mb-3 Son aquellos que cambian en proporción directa con los volúmenes de producción y ventas, por ejemplo: materias primas, mano de obra a destajo, comisiones, semilla, pie de cría, concentrado, vacunas, fertilizantes, etc. Jiménez, 2010, p. 25.
 
-    .row.justify-content-center.align-items-center.mb-3
-      .col-lg-10.mb-5
-        .tarjeta.p-2.banner_tarjeta
-          .row.justify-content-around.align-items-center.p-3
-            .col-auto
-              img(src="@/assets/curso/tema3/img_16.svg").img65
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Tabla 3.
-                  p.mb-0 Tabla de costos variables, proyecto cacao asociado a plátano.
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 5_Tabla 2 Costos fijos.xlsx')" target="_blank")
-                    span Consultar tabla
-                    i.fas.fa-file-excel
-                                
-    .row.align-items-center.justify-content-center.mb-0
+    .row.justify-content-center.mb-5
+      .col-md-12.col-lg-10
+        .tarjeta-avatar-b.mb-3
+          .tarjeta-avatar-b__img
+            img.mx-auto(src='@/assets/curso/tema1/icon-tarjeta.svg' alt='', style="width: 100px;")
+          .tarjeta.bg-tarjeta.align-content-center
+            .row.align-items-center.justify-content-center.p-4
+              .col.mb-3.mb-sm-0
+                h4.mb-1 Tabla 3.
+                p.mb-0 Tabla de costos variables, proyecto cacao asociado a plátano.
+              .col-sm-auto
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 5_Tabla 2 Costos fijos.xlsx')" target="_blank")
+                  span Consultar tabla
+                  i.fas.fa-file-excel
+                  
+    .row.align-items-center.justify-content-center.mb-4
       .col-lg-10.mb-2(data-aos="fade-left")         
         .cajon.bg-99.p-4.ps-5.mb-5.mb-lg-3
           p.mb-2 El siguiente paso es la elaboración de los ingresos de los productos que se van a producir en la explotación; para ello se debe tener en cuenta el año de inicio de la producción, volúmenes iniciales (cantidad) de producción, unidad de medida que fue establecida para el proyecto y precio de venta.
           p.mb-2 Se establece que este análisis de costos e ingresos se proyecta a cinco (5) años, que sería el periodo por evaluar en el proyecto.
-    
-    .row.justify-content-center.align-items-center.mb-3
-      .col-lg-10.mb-5
-        .tarjeta.p-2.banner_tarjeta
-          .row.justify-content-around.align-items-center.p-3
-            .col-auto
-              img(src="@/assets/curso/tema3/img_16.svg").img65
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h4.mb-1 Tabla 4.
-                  p.mb-0 Análisis de ingresos del proyecto cacao asociado a plátano
-                .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 6_Tabla 3. Costos variables.xlsx')" target="_blank")
-                    span Consultar tabla
-                    i.fas.fa-file-excel
+  
 
+    .row.justify-content-center.mb0
+      .col-md-12.col-lg-10
+        .tarjeta-avatar-b.mb-3
+          .tarjeta-avatar-b__img
+            img.mx-auto(src='@/assets/curso/tema1/icon-tarjeta.svg' alt='', style="width: 100px;")
+          .tarjeta.bg-tarjeta.align-content-center
+            .row.align-items-center.justify-content-center.p-4
+              .col.mb-3.mb-sm-0
+                h4.mb-1 Tabla 4.
+                p.mb-0 Análisis de ingresos del proyecto cacao asociado a plátano
+              .col-sm-auto
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 6_Tabla 3. Costos variables.xlsx')" target="_blank")
+                  span Consultar tabla
+                  i.fas.fa-file-excel
+                  
     Separador
 
     #t_5_1.titulo-segundo.color-acento-contenido
@@ -122,38 +120,42 @@
           p.mb-0 El flujo de caja para Mendieta (2005), posee cuatro elementos básicos que componen el flujo de fondos son:
       
       .col-lg-8.mb-5.align-items-center.justify-content-center
-        .row.justify-content-center.align-items-center
-          .col-lg-6.mb-2
-            .tarjeta-avatar-b.mb-3
-              .tarjeta-avatar-b__img
+        .row.justify-content-center.align-items-stretch
+          .col-lg-6.mb-2.d-flex
+            .tarjeta-avatar-b.mb-3.w-100
+              .tarjeta-avatar-b__img(style="z-index: 2;")
                 img.img-t.m-auto.mt-2(src='@/assets/curso/tema5/img_3.svg', alt='')
-              .tarjeta.bg-98.shadow-sm
+              .tarjeta.bg-98.shadow-sm.position-relative.h-100.d-flex.align-items-center.w-100
                 .p-3
-                p Los beneficios (ingreso) de operación.
+                  p.pe-4.mb-0 Los beneficios (ingreso) de operación.
+                h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #647A84;") A
           
-          .col-lg-6.mb-2
-            .tarjeta-avatar-b.mb-3
-              .tarjeta-avatar-b__img
+          .col-lg-6.mb-2.d-flex
+            .tarjeta-avatar-b.mb-3.w-100
+              .tarjeta-avatar-b__img(style="z-index: 2;")
                 img.img-t.m-auto.mt-2(src='@/assets/curso/tema5/img_4.svg', alt='')
-              .tarjeta.bg-94.shadow-sm
-                .p-2
-                p Los costos (egresos) de inversión o montaje, o sea, los costos iniciales.
+              .tarjeta.bg-94.shadow-sm.position-relative.h-100.d-flex.align-items-center.w-100
+                .p-3
+                  p.pe-4.mb-0 Los costos (egresos) de inversión o montaje, o sea, los costos iniciales.
+                h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #4F647A;") B
           
-          .col-lg-6.mb-2
-            .tarjeta-avatar-b.mb-3
-              .tarjeta-avatar-b__img
+          .col-lg-6.mb-2.d-flex
+            .tarjeta-avatar-b.mb-3.w-100
+              .tarjeta-avatar-b__img(style="z-index: 2;")
                 img.img-t.m-auto.mt-2(src='@/assets/curso/tema5/img_5.svg', alt='')
-              .tarjeta.bg-98.shadow-sm
+              .tarjeta.bg-98.shadow-sm.position-relative.h-100.d-flex.align-items-center.w-100
                 .p-3
-                p Los costos (egresos) de operación.
+                  p.pe-4.mb-0 Los costos (egresos) de operación.
+                h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #647A84;") C
           
-          .col-lg-6.mb-2
-            .tarjeta-avatar-b.mb-3
-              .tarjeta-avatar-b__img
+          .col-lg-6.mb-2.d-flex
+            .tarjeta-avatar-b.mb-3.w-100
+              .tarjeta-avatar-b__img(style="z-index: 2;")
                 img.img-t.m-auto.mt-2(src='@/assets/curso/tema5/img_6.svg', alt='')
-              .tarjeta.bg-94.shadow-sm
+              .tarjeta.bg-94.shadow-sm.position-relative.h-100.d-flex.align-items-center.w-100
                 .p-3
-                p El valor de desecho o salvamento de los activos del proyecto.
+                  p.pe-4.mb-0 El valor de desecho o salvamento de los activos del proyecto.
+                h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #4F647A;") D
           
 
     .row.justify-content-center.align-items-center.mb-3
@@ -257,19 +259,19 @@
     .row.justify-content-center.align-items-center.mb-2
       .col-md-12.mb-3(data-aos="fade-zoom-in")
         LineaTiempoD.color-acento-contenido.mb-4
-          .row(numero="1" titulo="Ingresos")
-            .col-md-7.mb-4.mb-md-0
+          .row(numero="1" titulo="Ingresos").justify-content-center.align-items-center
+            .col-md-12.col-lg-7.mb-lg-4.mb-md-2
               p Es el dinero percibido por la venta del producto o productos que deben ser registrados en el año que se efectúa la venta; se debe anotar que los ingresos registrados en el flujo de fondos del proyecto deben incluir, tanto los ingresos operativos (por venta del producto o prestación del servicio) como los ingresos financieros (por inversión de reserva, por ejemplo). Mendieta, 2005. p. 162.
       
-            .col-md-5
+            .col-md-8.col-lg-5
               figure
                 img(src='@/assets/curso/tema5/img_7.png', alt='Texto que describa la imagen')
 
-          .row(numero="2" titulo="Costos")
-            .col-md-7.mb-4.mb-md-0
+          .row(numero="2" titulo="Costos").justify-content-center.align-items-center
+            .col-md-12.col-lg-7.mb-lg-4.mb-md-2
               p se clasifican en dos categorías, la primera es de costos de inversión que consisten en desembolsos correspondientes a la adquisición de activos fijos o activos nominales y a la financiación del capital de trabajo. Los costos por adquisición de activos fijos que representan los desembolsos por compra de terrenos y edificios, es decir, pago de obras civiles y compra de equipo, maquinaria y obras de instalación o apoyo. Los costos por concepto de activos nominales corresponden a inversiones en activos no tangibles, pero necesarios para poner a funcionar el proyecto, tramitación de patentes como licencias; transferencias de tecnología, además de asistencia técnica; gastos de constitución y organización; así como la capacitación y entrenamiento. Mendieta, 2005 p. 163.
       
-            .col-md-5
+            .col-md-8.col-lg-5
               figure
                 img(src='@/assets/curso/tema5/img_8.png', alt='Texto que describa la imagen')
           
