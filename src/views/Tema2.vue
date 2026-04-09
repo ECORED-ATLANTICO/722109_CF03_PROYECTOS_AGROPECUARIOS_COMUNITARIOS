@@ -24,8 +24,8 @@
               p.mb-3 La importancia de este estudio se deriva de la posibilidad de llevar a cabo una valoración económica de las variables técnicas del proyecto que permitan una apreciación exacta o aproximada de los recursos necesarios para el proyecto; además de proporcionar información de utilidad al estudio económico-financiero. Todo estudio técnico tiene como principal objetivo el demostrar la viabilidad técnica del proyecto que justifique la alternativa técnica que mejor se adapte a los criterios de optimización. (Universidad Nacional Autónoma de México, s.f., p. 1) 
               .cajon.bg-05.p-4.ps-5.bg_18.mb-4.mb-lg-0
                 .row.align-items-center
-                  .col-md-3
-                    img.mx-auto(src='@/assets/curso/tema2/img_2.svg'  alt='')
+                  .col-md-3.mb-4.mb-lg-0.mb-md-0
+                    img.mx-auto(src='@/assets/curso/tema2/img_2.svg'  alt='').w-75-sm
                   .col-md-9
                     p.mb-0 En este aparte de la formulación de proyectos se debe realizar la descripción del proceso productivo, teniendo en cuenta que debe especificar materiales, insumos, semilla o pie de cría, fertilizantes, concentrado, cantidades, precios, etc. Además, debe indicar la cantidad y costos de la mano de obra, a continuación, vamos a describir brevemente los componentes del estudio técnico:
             .col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="fade-right")
@@ -42,24 +42,24 @@
       .col-md-12.col-lg-11
         p.mb-0 En el análisis del estudio técnico, la localización hace referencia a la ubicación espacial de la explotación agrícola o pecuaria; para ello se debe tener en cuenta criterios estratégicos, institucionales, técnicos, sociales y dos aspectos como la macro localización aquí se encuentran los entornos nacional y regional (ubicación del mercado de consumo, las fuentes de materias primas y mano de obra disponible) el segundo aspecto es la micro localización entorno de la zona urbana o rural (cercanía con el mercado consumidor, infraestructura y servicios).
 
-    .row.align-items-center.justify-content-center.mb-2
-      .col-lg-7.mb-3(data-aos="fade-left") 
+    .row.align-items-center.justify-content-center.mb-4
+      .col-lg-7.mb-3(data-aos="fade-left").order-2.order-lg-1
         p.mb-5.mb-lg-3 Al mismo tiempo la decisión de la ubicación del proyecto está relacionado con aspectos financieros, económicos y sociales que pueden tener repercusiones en el desarrollo económico y social de una región en el largo plazo.
-        .col-lg-12.mb-5.align-items-center.justify-content-center
+        .col-lg-12.align-items-center.justify-content-center
           .tarjeta-avatar-b.mb-3
             .tarjeta-avatar-b__img
               img.img-t.m-auto.mx-auto(src='@/assets/curso/tema2/img_5.svg', alt='')
             .tarjeta.bg-94.shadow-sm
               .p-3
               p Con el fin de establecer un método sencillo para cuantificar variables con las que se pueda determinar la ubicación de un proyecto, se pueden utilizar las siguientes:  
-      .col-lg-5.mb-3(data-aos="fade-right")
-        img.mt-3.w-auto.mx-auto(src='@/assets/curso/tema2/img_20.png'  alt='')
+      .col-lg-5.mb-3.mb-lg-0(data-aos="fade-right").order-1.order-lg-2
+        img.mx-auto(src='@/assets/curso/tema2/img_20.png'  alt='')
       
     
     .row.ordenar_tarjeta.align-items-center.justify-content-star.mb-1.ps-2.mb-3(data-aos="zoom-in-down")
-      .col-md-4.order-1.order-md-2.order-lg-1.ordenar_tarjeta
+      .col-md-4.order-1.order-md-1.order-lg-1.mb-4.mb-lg-0
         img.w-auto.mx-auto.img-responsive(src='@/assets/curso/tema2/img_21.png'  alt='')
-      .col-md-8.ordenar_tarjeta.order-2.order-md-1.order-lg-2
+      .col-md-8.order-2.order-md-2.order-lg-2
         .col-sm
           ul.lista-ul--cuadro.lista-ul
             li 
@@ -111,22 +111,22 @@
       p.mb-3 Cuando se habla del tamaño del proyecto se hace referencia a la capacidad que se tiene de producir el bien durante el tiempo que va a durar el proyecto. Para iniciar con este análisis, debe determinarse la unidad de medida del tamaño del proyecto, si es para una planta de faenado la unidad de medida puede ser el número de sacrificios por día, si es un cultivo de flores para exportación, la unidad puede ser el número de ramos exportados por día o por semana.
       p.mb-0.text-bold Por otro lado, es útil aclarar ciertos términos con respecto a la capacidad del proyecto, podemos distinguir tres situaciones:
 
-    .row.mb-3.justify-content-center
-      .col-md-6.mb-5.mb-lg-0
+    .row.mb-5.justify-content-center
+      .col-md-6.col-lg-4.mb-5.mb-lg-0
         .tarjeta.h-100.bg-97
           .p-4
             img(src='@/assets/curso/tema2/img_23.svg' alt='AvatarTop').w-50.m-auto.mb-2
             h5.text-center Capacidad diseñada
             p.text-center Corresponde al máximo nivel posible de producción o de prestación del servicio.
 
-      .col-md-6.mb-5.mb-lg-0
+      .col-md-6.col-lg-4.mb-5.mb-lg-0
         .tarjeta.h-100.bg-95
           .p-4
             img(src='@/assets/curso/tema2/img_24.svg' alt='AvatarTop').w-50.m-auto.mb-2
             h5.text-center Capacidad instalada
             p.text-center Corresponde a la capacidad máxima disponible permanentemente.
 
-      .col-md-6.mb-5.mb-lg-0
+      .col-md-6.col-lg-4.mb-0.mb-lg-0
         .tarjeta.h-100.bg-04
           .p-4
             img(src='@/assets/curso/tema2/img_25.svg' alt='AvatarTop').w-50.m-auto.mb-2
@@ -139,8 +139,8 @@
         p.mb-3 En la estimación del tamaño del proyecto se debe pensar en la dimensión del mercado, capacidad financiera, disponibilidad de insumos, la existencia o no de servicios públicos, oferta de transporte, infraestructura vial, voluntad política, planes de desarrollo municipal, líneas productivas priorizadas en el PDEA, etc.
         .cajon.bg-05.p-4.ps-5.bg_18.mb-4.mb-lg-0
           .row
-            .col-md-2
-              img.mt-1(src='@/assets/curso/tema2/img_11.svg'  alt='').w-auto.mx-auto
+            .col-md-2.mb-4.mb-lg-0
+              img(src='@/assets/curso/tema2/img_11.svg'  alt='').w-75-sm.mx-auto
             .col-md-10
               p.mb-0 Un factor que puede ayudar en la definición del tamaño del proyecto es la relación del mercado con los costos unitarios, si el resultado es que posee los costos mínimos y además tiene la capacidad de satisfacer el crecimiento de la demanda ese será el tamaño adecuado para el proyecto agropecuario.
       .col-lg-5.mb-3(data-aos="fade-right")
