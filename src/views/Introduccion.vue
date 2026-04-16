@@ -16,7 +16,7 @@
         figure.mb-5(data-aos="fade-right")
           .video.mb-2
             <iframe width="560" height="315" src="https://www.youtube.com/embed/11nSFfxNmQ4" alt="A continuación en el enlace se muestra la formulación de los componentes de estudio para proyectos agropecuarios." title="Introducción" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          figcaption Video 1. Formulación de los componentes de estudio para proyectos agropecuarios.
+          figcaption Video. Formulación de los componentes de estudio para proyectos agropecuarios.
 
 
 
