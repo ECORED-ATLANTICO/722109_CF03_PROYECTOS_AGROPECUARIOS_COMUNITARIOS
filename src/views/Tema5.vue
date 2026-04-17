@@ -35,7 +35,7 @@
 
     p.mb-3 En el análisis de los costos lo primero es identificar los dos tipos de costos que existen: costos fijos son aquellos que no cambian según el nivel de producción, por ejemplo, arriendo, vigilancia, depreciación de máquinas o seguros y los costos variables son los que aumentan o disminuyen dependiendo del volumen de producción como mano de obra, insumos, semilla, pie de cría, concentrado, vacunas, fertilizantes, etc.
 
-    h4.text-center.mb-5 Para la elaboración de la tabla de costos en la herramienta ofimática excel debe tener en cuenta la siguiente clasificación de costos:
+    h4.mb-5 Para la elaboración de la tabla de costos en la herramienta ofimática excel debe tener en cuenta la siguiente clasificación de costos:
                   
     .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
       //- Subtitulo
@@ -102,7 +102,7 @@
             .row.align-items-center.justify-content-center.p-4
               .col.mb-3.mb-sm-0
                 h4.mb-1 Tabla 4.
-                p.mb-0 Análisis de ingresos del proyecto cacao asociado a plátano
+                p.mb-0 Análisis de ingresos del proyecto cacao asociado a plátano.
               .col-sm-auto
                 a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 7_Tabla 4 Análisis de ingresos.xlsx')" target="_blank")
                   span Consultar tabla
@@ -166,6 +166,7 @@
         
         .tabla-b.color-acento-botones.mb-5 
           table
+            caption Nota. Tomado de Fundación y evaluación de proyectos de inversión agropecuaria (2005) p 161.
             thead
               tr.encabezado_tabla
                 th 
@@ -269,7 +270,7 @@
 
           .row(numero="2" titulo="Costos").justify-content-center.align-items-center
             .col-md-12.col-lg-7.mb-lg-4.mb-md-2
-              p se clasifican en dos categorías, la primera es de costos de inversión que consisten en desembolsos correspondientes a la adquisición de activos fijos o activos nominales y a la financiación del capital de trabajo. Los costos por adquisición de activos fijos que representan los desembolsos por compra de terrenos y edificios, es decir, pago de obras civiles y compra de equipo, maquinaria y obras de instalación o apoyo. Los costos por concepto de activos nominales corresponden a inversiones en activos no tangibles, pero necesarios para poner a funcionar el proyecto, tramitación de patentes como licencias; transferencias de tecnología, además de asistencia técnica; gastos de constitución y organización; así como la capacitación y entrenamiento. Mendieta, 2005 p. 163.
+              p Se clasifican en dos categorías, la primera es de costos de inversión que consisten en desembolsos correspondientes a la adquisición de activos fijos o activos nominales y a la financiación del capital de trabajo. Los costos por adquisición de activos fijos que representan los desembolsos por compra de terrenos y edificios, es decir, pago de obras civiles y compra de equipo, maquinaria y obras de instalación o apoyo. Los costos por concepto de activos nominales corresponden a inversiones en activos no tangibles, pero necesarios para poner a funcionar el proyecto, tramitación de patentes como licencias; transferencias de tecnología, además de asistencia técnica; gastos de constitución y organización; así como la capacitación y entrenamiento. Mendieta, 2005 p. 163.
       
             .col-md-8.col-lg-5
               figure

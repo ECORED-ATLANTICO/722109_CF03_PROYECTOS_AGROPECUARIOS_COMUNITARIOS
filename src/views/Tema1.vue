@@ -211,7 +211,7 @@
               | <b> Estructuras reproductivas: </b>  flores ornamentales, coliflor y brócoli.
             li 
               i.fas.fa-angle-right
-              | <b> Estructuras subterráneas: </b> raíces (zanahoria y remolacha, entre otros), tubérculos (papa), rizomas (jengibre). (Puentes, 2011, p. 46). Adaptación realizada por el autor, 2021.
+              | <b> Estructuras subterráneas: </b> raíces (zanahoria y remolacha, entre otros), tubérculos (papa), rizomas (jengibre). (Puentes, 2011, p. 46). Adaptación por el SENA (2021).
 
     .row.ordenar_tarjeta.align-items-center.justify-content-center.mb-4.ps-2(data-aos="zoom-in-down")
       .col-lg-10
@@ -229,16 +229,16 @@
                   | <b> Subproductos agropecuarios:</b> huevos, derivados lácteos, cueros.
                 li 
                   i.fas.fa-angle-right
-                  | <b> Especies menores </b>
+                  | <b> Especies menores.</b>
                 li 
                   i.fas.fa-angle-right
-                  | <b> Ganado doble propósito </b>
+                  | <b> Ganado doble propósito.</b>
                 li 
                   i.fas.fa-angle-right
-                  | <b> Ganado lechero </b>
+                  | <b> Ganado lechero.</b>
                 li 
                   i.fas.fa-angle-right
-                  | <b> Ganado para carne. </b> (Puentes, 2011, p. 46). Adaptación realizada por el autor, 2021.
+                  | <b> Ganado para carne. </b> (Puentes, 2011, p. 46). Adaptación por el SENA (2021).
           
           .col-md-5.mb-3.ordenar_tarjeta 
             img.mx-auto.img-responsive(src='@/assets/curso/tema1/img_68.png'  alt='')
@@ -272,7 +272,7 @@
         .row.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-4.mb-4.mb-md-0
             h4 Usuario
-            p Aquí se establece la ubicación espacial de los consumidores finales, además identificar, gustos, fiestas nacionales, credo religioso, actividades comunitarias, nivel de ingreso, sexo, estrato. (Miranda, 2005, p. 93)
+            p Aquí se establece la ubicación espacial de los consumidores finales, además identificar, gustos, fiestas nacionales, credo religioso, actividades comunitarias, nivel de ingreso, sexo, estrato. (Miranda, 2005, p. 93).
 
           .col-md-8
             figure
@@ -409,7 +409,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 <b>Los lugares donde suelen hacer las compras </b> los consumidores (zonas urbanas/rurales, grandes supermercados, pequeños expendios, tiendas virtuales, si el bien o servicio entrega a nivel domiciliario)
+                  p.mb-0 <b>Los lugares donde suelen hacer las compras </b> los consumidores (zonas urbanas/rurales, grandes supermercados, pequeños expendios, tiendas virtuales, si el bien o servicio entrega a nivel domiciliario).
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #4F647A;") C
       
       .col-md-12.col-lg-6.mb-3.d-flex
@@ -576,7 +576,7 @@
             p.mb-0 En la determinación de precio de los productos se tiene en cuenta el valor de los insumos, condiciones de la oferta y la demanda; una definición de precio es la siguiente: es lo que se da a cambio por un bien o servicio, puede ser el dinero que se entrega por un producto deseado. Es un condicionante, puesto que está sujeto a los precios que maneja la competencia. (Puentes, 2011, p. 55). 
     
     
-    h4.text-center.mb-5 Existen cinco objetivos que se pueden utilizar para la fijación del precio por parte de una empresa o productor:
+    h4.mb-5 Existen cinco objetivos que se pueden utilizar para la fijación del precio por parte de una empresa o productor:
     
     .row.justify-content-center.align-items-center.mb-2.ordenar_tarjeta
       .col-md-8.mb-4
@@ -611,6 +611,12 @@
           img(src='@/assets/curso/tema1/img_53.png', alt='Texto que describa la imagen')
           //- figcaption Leyenda de la imagen 
     
+    .row.align-items-center.justify-content-center.mb-4
+      .col-lg-12.mb-3(data-aos="fade-left") 
+        .cajon.bg-05.p-4.ps-5.mb-4.mb-lg-2
+          p.mb-0 Para definir el <b>producto</b> es necesario responder a la pregunta ¿es un producto final o es un producto industrial?, el segundo paso es determinar la calidad del producto y estandarizarlo; para esto debe tener en cuenta el ciclo de vida del producto y sus cuatro etapas introducción, aceptación o crecimiento acelerado, maduración y declinación. Recuerde que las especificaciones y calidad del producto deben ser muy específicas para que puedan ser comercializadas en el mercado deseado.
+        
+    .row.align-items-center.justify-content-center.mb-4
       .col-md-10.mb-4
         .titulo-sexto.color-acento-contenido.mb-0
             h5 Figura 1. 
@@ -619,27 +625,26 @@
         figure
           img.d-none.d-lg-block.d-md-block(src='@/assets/curso/tema1/img_74.svg', alt='En la imagen se muestra el ciclo de vida del producto, introducción, crecimiento, madurez y declive. Así mismo determina las ventas, el tiempo y los beneficios.')
           img.d-block.d-sm-block.d-lg-none.d-md-none(src='@/assets/curso/tema1/img_75.svg', alt='En la imagen se muestra el ciclo de vida del producto, introducción, crecimiento, madurez y declive. Así mismo determina las ventas, el tiempo y los beneficios.')
-          figcaption Nota. Tomado de Martínez (2017) 
+          figcaption Nota. Tomado de Martínez (2017). 
+    
+
     
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-4.mb-3(data-aos="fade-right")
         img.mt-3.mx-auto.img-responsive(src='@/assets/curso/tema1/img_72.png'  alt='')
       .col-lg-8.mb-3(data-aos="fade-left") 
-        .cajon.bg-05.p-4.ps-5.mb-4.mb-lg-2
-          p.mb-0 Para definir el <b>producto</b> es necesario responder a la pregunta ¿es un producto final o es un producto industrial?, el segundo paso es determinar la calidad del producto y estandarizarlo; para esto debe tener en cuenta el ciclo de vida del producto y sus cuatro etapas introducción, aceptación o crecimiento acelerado, maduración y declinación. Recuerde que las especificaciones y calidad del producto deben ser muy específicas para que puedan ser comercializadas en el mercado deseado.
-        
         p.mb-3 El precio también debe estar establecido de acuerdo con la calidad del producto; por ejemplo tres clases de café con combinaciones de calidad y precio diferentes, el primer café de baja calidad que proviene de mezcla de variedades, malas pasillas, mohoso, con fermento y reposado por lo que se comercializa a un precio económico; una segunda clase de café de calidad media con pocos defectos, pero con sabor a grano verde, posee un precio que corresponde a una adecuada relación precio/calidad; por último un café especial con una prueba de tasa superior a 85 puntos, de tostión y molienda media, proveniente de cafés arábigos y con denominación de origen.
         
     .row.justify-content-center.align-items-center.mb-5
       .col-md-12.col-lg-10.mb-5
         .titulo-sexto.color-acento-contenido.mb-0
             h5 Figura 2. 
-            span Estrategia según precio y calidad. 
+            span Estrategia según precio y calidad 
 
         figure
           img.d-none.d-lg-block.d-md-block(src='@/assets/curso/tema1/img_76.svg', alt='La estrategia según el precio y la calidad, se determina en calidad, ya sea baja y alta, en precio, ya sea alto y bajo.')
           img.d-block.d-sm-block.d-lg-none.d-md-none(src='@/assets/curso/tema1/img_77.svg', alt='La estrategia según el precio y la calidad, se determina en calidad, ya sea baja y alta, en precio, ya sea alto y bajo.')
-          figcaption Nota. Tomado de Sanchez, L.J. (2021)
+          figcaption Nota. Tomado de Sanchez, L.J. (2021).
       
       .col-lg-10.mb-3.d-none.d-lg-block
         .tarjeta-avatar-b.mb-3

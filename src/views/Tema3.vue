@@ -63,7 +63,7 @@
           
           .row(numero="4" titulo="Políticas").justify-content-center.align-items-center
             .col-md-12.col-lg-7.mb-lg-4.mb-3
-              p.mb-0 Generan lineamientos para el trabajo en la empresa agropecuaria, la política es generada desde la gerencia del proyecto. Ejemplo, la dirección de grupo AGROSANA entiende que la calidad de sus servicios y productos debe estar orientada hacia la satisfacción de las expectativas de nuestros clientes, como elemento diferenciador y fundamental que asegura el éxito en la “venta al por mayor de fitosanitarios, fertilizantes y productos auxiliares para uso agrícola”. Pretendemos seguir avanzando para llevar nuestro espíritu de vanguardia y calidad para que de esta forma cada vez más empresas puedan disfrutar de todos nuestros productos y servicios, haciendo de grupo AGROSANA, una empresa de referencia en el mercado nacional. A fin de cumplir con esta política, grupo AGROSANA ha establecido un sistema de gestión de la calidad conforme a los requisitos de la norma UNE-EN-ISO-9001:2015, cuyas estipulaciones son de obligado cumplimiento. AGROSANA, 2015.
+              p.mb-0 Generan lineamientos para el trabajo en la empresa agropecuaria, la política es generada desde la gerencia del proyecto. Ejemplo, la dirección de grupo Agrosana entiende que la calidad de sus servicios y productos debe estar orientada hacia la satisfacción de las expectativas de nuestros clientes, como elemento diferenciador y fundamental que asegura el éxito en la “venta al por mayor de fitosanitarios, fertilizantes y productos auxiliares para uso agrícola”. Pretendemos seguir avanzando para llevar nuestro espíritu de vanguardia y calidad para que de esta forma cada vez más empresas puedan disfrutar de todos nuestros productos y servicios, haciendo de grupo Agrosana, una empresa de referencia en el mercado nacional. A fin de cumplir con esta política, grupo Agrosana ha establecido un sistema de gestión de la calidad conforme a los requisitos de la norma UNE-EN-ISO-9001:2015, cuyas estipulaciones son de obligado cumplimiento. Agrosana, 2015.
       
             .col-md-8.col-lg-5
               figure
@@ -114,7 +114,9 @@
     #t_3_3.titulo-segundo.color-acento-contenido
       .h2(data-aos="fade-right") 3.3 Organigrama
 
-    p.mb-5 Consiste en la elaboración de un cuadro de jerarquía en el que se escriben los cargos que se identifican dentro del proyecto, para su elaboración debe identificarse la cadena de mando, las áreas están presentes, identificar las funciones que se desarrollan en cada una de las áreas y sus relaciones jerárquicas.
+    p.mb-3 Consiste en la elaboración de un cuadro de jerarquía en el que se escriben los cargos que se identifican dentro del proyecto, para su elaboración debe identificarse la cadena de mando, las áreas están presentes, identificar las funciones que se desarrollan en cada una de las áreas y sus relaciones jerárquicas.
+    p.mb-5 Para la elaboración del organigrama del proyecto se pueden utilizar los siguientes pasos:
+  
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in-down").img_fondo_2
       .col-lg-10.mb-5
@@ -165,54 +167,53 @@
           h5 Tabla 1. 
           span Normatividad agropecuaria
         .tabla-b.color-acento-contenido.mb-5
-          .tabla-b
-            table
-              caption Nota. Normatividad nacional Barón (2021).
-              tr.bg-98 
-                th.text-center.w-35 Norma
-                th.text-center Descripción
-              tr 
-                td.text-bold Resolución 20009 de 2016
-                td Por medio de la cual se establecen los requisitos para la certificación en buenas prácticas agrícolas en producción primaria de vegetales y otras especies para consumo humano.
-              tr 
-                td.text-bold Resolución 2304 de 2015
-                td Por la cual se establecen los requisitos sanitarios y de inocuidad para obtener la certificación en Buenas Prácticas Ganaderas (BPG) en la producción primaria de ovinos y caprinos destinados al sacrificio para consumo humano.
-              tr 
-                td.text-bold Resolución ICA 448 de 2016
-                td Por medio de las cuales se establecen los requisitos para el registro ante el ICA de los predios de vegetales para exportación en fresco, el registro de exportadores y el registro de las plantas empacadoras de las plantas para exportación en fresco.
-              tr 
-                td.text-bold Decreto 616 de 2007
-                td Por el cual se establece el reglamento técnico sobre los requisitos que debe cumplir la leche para el consumo humano que se obtenga, procese, envase, transporte, comercialice, expenda, importe o exporte en el país.
-              tr 
-                td.text-bold Decreto 1880 de 2011
-                td Por el cual se señalan los requisitos para la comercialización de leche cruda para consumo humano directo en el territorio nacional.
-              tr 
-                td.text-bold Decreto 1162 de 2010
-                td Por el cual se organiza el sistema administrativo nacional de propiedad intelectual y se crea la comisión intersectorial de propiedad intelectual.
-              tr 
-                td.text-bold Decreto 3149 de 2006
-                td Por el cual se dictan disposiciones sobre la comercialización, transporte, sacrificio de ganado bovino y bufalino y expendio de carne en el territorio nacional.
-              tr 
-                td.text-bold Decreto 616 de 2006
-                td Por el cual se expide el reglamento técnico sobre los requisitos que debe cumplir la leche para el consumo humano que se obtenga, procese, envase, transporte, comercializa, expenda, importe o exporte en el país.
-              tr 
-                td.text-bold Decreto 1355 de 2001
-                td Por el cual se adoptan medidas transitorias sobre las exportaciones de animales vivos de la especie bovina.
-              tr 
-                td.text-bold Decreto 459 de 2000
-                td Por el cual se dictan normas relacionadas con los plaguicidas genéricos.
-              tr 
-                td.text-bold Resolución 17 de 2012
-                td Por la cual se establece el sistema de pago de la leche cruda al proveedor.
-              tr 
-                td.text-bold Resolución 310 de 2009
-                td Por la cual se determina el valor promedio nacional de los costos de establecimiento y mantenimiento por hectárea de bosque plantado, se fija la cuantía máxima porcentual que se reconocerá por concepto de certificado de incentivo forestal y se fija el Incentivo por árbol, para el año 2010.
-              tr 
-                td.text-bold Resolución 36 de 2009
-                td Por la cual se reglamentan para el año 2009 los contingentes de exportación de ganado en pie de la especie bovina. (publicada diario oficial 47262 de 2009).
-              tr 
-                td.text-bold Resolución 1442 de 2008
-                td Por la cual se establece el procedimiento para la expedición del dictamen técnico-ambiental al que alude la norma andina para el registro y control de plaguicidas químicos de uso agrícola, decisión 436, de la comisión de la comunidad andina, y se toman otras determinaciones.
+          table
+            caption Nota. Normatividad nacional Barón (2021).
+            tr.bg-98 
+              th.text-center.w-35 Norma
+              th.text-center Descripción
+            tr 
+              td.text-bold Resolución 20009 de 2016
+              td Por medio de la cual se establecen los requisitos para la certificación en buenas prácticas agrícolas en producción primaria de vegetales y otras especies para consumo humano.
+            tr 
+              td.text-bold Resolución 2304 de 2015
+              td Por la cual se establecen los requisitos sanitarios y de inocuidad para obtener la certificación en Buenas Prácticas Ganaderas (BPG) en la producción primaria de ovinos y caprinos destinados al sacrificio para consumo humano.
+            tr 
+              td.text-bold Resolución ICA 448 de 2016
+              td Por medio de las cuales se establecen los requisitos para el registro ante el ICA de los predios de vegetales para exportación en fresco, el registro de exportadores y el registro de las plantas empacadoras de las plantas para exportación en fresco.
+            tr 
+              td.text-bold Decreto 616 de 2007
+              td Por el cual se establece el reglamento técnico sobre los requisitos que debe cumplir la leche para el consumo humano que se obtenga, procese, envase, transporte, comercialice, expenda, importe o exporte en el país.
+            tr 
+              td.text-bold Decreto 1880 de 2011
+              td Por el cual se señalan los requisitos para la comercialización de leche cruda para consumo humano directo en el territorio nacional.
+            tr 
+              td.text-bold Decreto 1162 de 2010
+              td Por el cual se organiza el sistema administrativo nacional de propiedad intelectual y se crea la comisión intersectorial de propiedad intelectual.
+            tr 
+              td.text-bold Decreto 3149 de 2006
+              td Por el cual se dictan disposiciones sobre la comercialización, transporte, sacrificio de ganado bovino y bufalino y expendio de carne en el territorio nacional.
+            tr 
+              td.text-bold Decreto 616 de 2006
+              td Por el cual se expide el reglamento técnico sobre los requisitos que debe cumplir la leche para el consumo humano que se obtenga, procese, envase, transporte, comercializa, expenda, importe o exporte en el país.
+            tr 
+              td.text-bold Decreto 1355 de 2001
+              td Por el cual se adoptan medidas transitorias sobre las exportaciones de animales vivos de la especie bovina.
+            tr 
+              td.text-bold Decreto 459 de 2000
+              td Por el cual se dictan normas relacionadas con los plaguicidas genéricos.
+            tr 
+              td.text-bold Resolución 17 de 2012
+              td Por la cual se establece el sistema de pago de la leche cruda al proveedor.
+            tr 
+              td.text-bold Resolución 310 de 2009
+              td Por la cual se determina el valor promedio nacional de los costos de establecimiento y mantenimiento por hectárea de bosque plantado, se fija la cuantía máxima porcentual que se reconocerá por concepto de certificado de incentivo forestal y se fija el Incentivo por árbol, para el año 2010.
+            tr 
+              td.text-bold Resolución 36 de 2009
+              td Por la cual se reglamentan para el año 2009 los contingentes de exportación de ganado en pie de la especie bovina. (publicada diario oficial 47262 de 2009).
+            tr 
+              td.text-bold Resolución 1442 de 2008
+              td Por la cual se establece el procedimiento para la expedición del dictamen técnico-ambiental al que alude la norma andina para el registro y control de plaguicidas químicos de uso agrícola, decisión 436, de la comisión de la comunidad andina, y se toman otras determinaciones.
 
       .row.justify-content-center.mb-5
         .col-md-12.col-lg-10
