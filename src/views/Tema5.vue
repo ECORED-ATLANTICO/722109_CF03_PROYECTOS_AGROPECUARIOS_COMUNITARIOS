@@ -33,65 +33,69 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 En esta primera parte se va a trabajar la organización metódica (organizada) de los costos de producción y los ingresos del proyecto. El año uno o año cero es el momento en el que se realizan las inversiones iniciales del proyecto cuando se comienza a invertir en adecuaciones de terrenos, construcciones agrícolas o pecuarias, compra de semilla o semovientes, etc; periodo de inversión o montaje.
 
-    p.mb-3 En el análisis de los costos lo primero es identificar los dos tipos de costos que existen: costos fijos son aquellos que no cambian según el nivel de producción, por ejemplo, arriendo, vigilancia, depreciación de máquinas o seguros y los costos variables son los que aumentan o disminuyen dependiendo del volumen de producción como mano de obra, insumos, semilla, pie de cría, concentrado, vacunas, fertilizantes, etc.
+    p.mb-5 En el análisis de los costos lo primero es identificar los dos tipos de costos que existen: costos fijos son aquellos que no cambian según el nivel de producción, por ejemplo, arriendo, vigilancia, depreciación de máquinas o seguros y los costos variables son los que aumentan o disminuyen dependiendo del volumen de producción como mano de obra, insumos, semilla, pie de cría, concentrado, vacunas, fertilizantes, etc.
 
-    h4.mb-5 Para la elaboración de la tabla de costos en la herramienta ofimática excel debe tener en cuenta la siguiente clasificación de costos:
-                  
-    .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-      //- Subtitulo
-      .align-items-center.justify-content-star.mb-2
-        .div(data-aos="fade-left")
-          h3.subtitle.position-relative Costos fijos
-            img.image(src='@/assets/curso/tema1/img_62.svg', alt='Imagen decorativa')
-      
-    p.mb-4 Arriendo, sueldos administrativos, servicios públicos, amortizaciones, vigilancia, seguros, etc. Se mantienen más o menos constantes y generalmente no cambian en proporción directa con las ventas o unidades producidas. Jiménez, 2010, p. 25.
-                    
-    .row.justify-content-center.mb-5
-      .col-md-12.col-lg-10
-        .tarjeta-avatar-b.mb-3
-          .tarjeta-avatar-b__img
-            img.mx-auto(src='@/assets/curso/tema1/icon-tarjeta.svg' alt='', style="width: 100px;")
-          .tarjeta.bg-tarjeta.align-content-center
-            .row.align-items-center.justify-content-center.p-4
-              .col.mb-3.mb-sm-0
-                h4.mb-1 Tabla 2.
-                p.mb-0 Tabla de costos fijos, proyecto cacao asociado a plátano.
-              .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 5_Tabla 2 Costos fijos.xlsx')" target="_blank")
-                  span Consultar tabla
-                  i.fas.fa-file-excel
-                  
     
-    .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
-      //- Subtitulo
-      .align-items-center.justify-content-star.mb-2
-        .div(data-aos="fade-left")
-          h3.subtitle.position-relative Costos variables
-            img.image(src='@/assets/curso/tema1/img_62.svg', alt='Imagen decorativa')
-      
-    p.mb-3 Son aquellos que cambian en proporción directa con los volúmenes de producción y ventas, por ejemplo: materias primas, mano de obra a destajo, comisiones, semilla, pie de cría, concentrado, vacunas, fertilizantes, etc. Jiménez, 2010, p. 25.
+    .row
+      .col-12.col-lg-10.mx-auto
+        p.mb-5 
+          b Para la elaboración de la tabla de costos en la herramienta ofimática excel debe tener en cuenta la siguiente clasificación de costos:
 
-    .row.justify-content-center.mb-5
-      .col-md-12.col-lg-10
-        .tarjeta-avatar-b.mb-3
-          .tarjeta-avatar-b__img
-            img.mx-auto(src='@/assets/curso/tema1/icon-tarjeta.svg' alt='', style="width: 100px;")
-          .tarjeta.bg-tarjeta.align-content-center
-            .row.align-items-center.justify-content-center.p-4
-              .col.mb-3.mb-sm-0
-                h4.mb-1 Tabla 3.
-                p.mb-0 Tabla de costos variables, proyecto cacao asociado a plátano.
-              .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 6_Tabla 3 Costos variables.xlsx')" target="_blank")
-                  span Consultar tabla
-                  i.fas.fa-file-excel
-                  
-    .row.align-items-center.justify-content-center.mb-4
-      .col-lg-10.mb-2(data-aos="fade-left")         
-        .cajon.bg-99.p-4.ps-5.mb-5.mb-lg-3
-          p.mb-2 El siguiente paso es la elaboración de los ingresos de los productos que se van a producir en la explotación; para ello se debe tener en cuenta el año de inicio de la producción, volúmenes iniciales (cantidad) de producción, unidad de medida que fue establecida para el proyecto y precio de venta.
-          p.mb-2 Se establece que este análisis de costos e ingresos se proyecta a cinco (5) años, que sería el periodo por evaluar en el proyecto.
-  
+        .align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
+          //- Subtitulo
+          .align-items-center.justify-content-star.mb-2
+            .div(data-aos="fade-left")
+              h3.subtitle.position-relative Costos fijos
+                img.image(src='@/assets/curso/tema1/img_62.svg', alt='Imagen decorativa')
+          
+        p.mb-4 Arriendo, sueldos administrativos, servicios públicos, amortizaciones, vigilancia, seguros, etc. Se mantienen más o menos constantes y generalmente no cambian en proporción directa con las ventas o unidades producidas. Jiménez, 2010, p. 25.
+                    
+        .row.justify-content-center.mb-5
+          .col-12
+            .tarjeta-avatar-b.mb-3
+              .tarjeta-avatar-b__img
+                img.mx-auto(src='@/assets/curso/tema1/icon-tarjeta.svg' alt='', style="width: 100px;")
+              .tarjeta.bg-tarjeta.align-content-center
+                .row.align-items-center.justify-content-center.p-4
+                  .col.mb-3.mb-sm-0
+                    h4.mb-1 Tabla 2.
+                    p.mb-0 Tabla de costos fijos, proyecto cacao asociado a plátano.
+                  .col-sm-auto
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 5_Tabla 2 Costos fijos.xlsx')" target="_blank")
+                      span Consultar tabla
+                      i.fas.fa-file-excel
+                      
+    
+        .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
+          //- Subtitulo
+          .align-items-center.justify-content-star.mb-2
+            .div(data-aos="fade-left")
+              h3.subtitle.position-relative Costos variables
+                img.image(src='@/assets/curso/tema1/img_62.svg', alt='Imagen decorativa')
+            
+          p.mb-3 Son aquellos que cambian en proporción directa con los volúmenes de producción y ventas, por ejemplo: materias primas, mano de obra a destajo, comisiones, semilla, pie de cría, concentrado, vacunas, fertilizantes, etc. Jiménez, 2010, p. 25.
+
+          .row.justify-content-center.mb-5
+            .col-12
+              .tarjeta-avatar-b.mb-3
+                .tarjeta-avatar-b__img
+                  img.mx-auto(src='@/assets/curso/tema1/icon-tarjeta.svg' alt='', style="width: 100px;")
+                .tarjeta.bg-tarjeta.align-content-center
+                  .row.align-items-center.justify-content-center.p-4
+                    .col.mb-3.mb-sm-0
+                      h4.mb-1 Tabla 3.
+                      p.mb-0 Tabla de costos variables, proyecto cacao asociado a plátano.
+                    .col-sm-auto
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 6_Tabla 3 Costos variables.xlsx')" target="_blank")
+                        span Consultar tabla
+                        i.fas.fa-file-excel
+                        
+          .row.align-items-center.justify-content-center.mb-4
+            .col-lg-10.mb-2(data-aos="fade-left")         
+              .cajon.bg-99.p-4.ps-5.mb-5.mb-lg-3
+                p.mb-2 El siguiente paso es la elaboración de los ingresos de los productos que se van a producir en la explotación; para ello se debe tener en cuenta el año de inicio de la producción, volúmenes iniciales (cantidad) de producción, unidad de medida que fue establecida para el proyecto y precio de venta.
+                p.mb-2 Se establece que este análisis de costos e ingresos se proyecta a cinco (5) años, que sería el periodo por evaluar en el proyecto.
+    
 
 
                   
@@ -237,7 +241,7 @@
                 td.text-end $ 110.000
               tr.negrita.encabezado_tabla
                 td.text-start Ingresos netos gravables
-                td.text-end $ -110.000
+                td.text-end $ -100.000
                 td.text-end $ 140.000
                 td.text-end $ 160.000
                 td.text-end $ 460.000
