@@ -93,20 +93,7 @@
           p.mb-2 Se establece que este análisis de costos e ingresos se proyecta a cinco (5) años, que sería el periodo por evaluar en el proyecto.
   
 
-    .row.justify-content-center.mb0
-      .col-md-12.col-lg-10
-        .tarjeta-avatar-b.mb-3
-          .tarjeta-avatar-b__img
-            img.mx-auto(src='@/assets/curso/tema1/icon-tarjeta.svg' alt='', style="width: 100px;")
-          .tarjeta.bg-tarjeta.align-content-center
-            .row.align-items-center.justify-content-center.p-4
-              .col.mb-3.mb-sm-0
-                h4.mb-1 Tabla 4.
-                p.mb-0 Análisis de ingresos del proyecto cacao asociado a plátano.
-              .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 7_Tabla 4 Análisis de ingresos.xlsx')" target="_blank")
-                  span Consultar tabla
-                  i.fas.fa-file-excel
+
                   
     Separador
 
@@ -161,7 +148,7 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-md-12
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Tabla 5. 
+          h5 Tabla 4. 
           span Presentación matricial del flujo de fondos
         
         .tabla-b.color-acento-botones.mb-5 
