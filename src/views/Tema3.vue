@@ -173,46 +173,46 @@
               th.text-center.w-35 Norma
               th.text-center Descripción
             tr 
-              td.text-bold Resolución 20009 de 2016.
+              td Resolución 20009 de 2016.
               td Por medio de la cual se establecen los requisitos para la certificación en buenas prácticas agrícolas en producción primaria de vegetales y otras especies para consumo humano.
             tr 
-              td.text-bold Resolución 2304 de 2015.
+              td Resolución 2304 de 2015.
               td Por la cual se establecen los requisitos sanitarios y de inocuidad para obtener la certificación en Buenas Prácticas Ganaderas (BPG) en la producción primaria de ovinos y caprinos destinados al sacrificio para consumo humano.
             tr 
-              td.text-bold Resolución ICA 448 de 2016.
+              td Resolución ICA 448 de 2016.
               td Por medio de las cuales se establecen los requisitos para el registro ante el ICA de los predios de vegetales para exportación en fresco, el registro de exportadores y el registro de las plantas empacadoras de las plantas para exportación en fresco.
             tr 
-              td.text-bold Decreto 616 de 2007.
+              td Decreto 616 de 2007.
               td Por el cual se establece el reglamento técnico sobre los requisitos que debe cumplir la leche para el consumo humano que se obtenga, procese, envase, transporte, comercialice, expenda, importe o exporte en el país.
             tr 
-              td.text-bold Decreto 1880 de 2011.
+              td Decreto 1880 de 2011.
               td Por el cual se señalan los requisitos para la comercialización de leche cruda para consumo humano directo en el territorio nacional.
             tr 
-              td.text-bold Decreto 1162 de 2010.
+              td Decreto 1162 de 2010.
               td Por el cual se organiza el sistema administrativo nacional de propiedad intelectual y se crea la comisión intersectorial de propiedad intelectual.
             tr 
-              td.text-bold Decreto 3149 de 2006.
+              td Decreto 3149 de 2006.
               td Por el cual se dictan disposiciones sobre la comercialización, transporte, sacrificio de ganado bovino y bufalino y expendio de carne en el territorio nacional.
             tr 
-              td.text-bold Decreto 616 de 2006.
+              td Decreto 616 de 2006.
               td Por el cual se expide el reglamento técnico sobre los requisitos que debe cumplir la leche para el consumo humano que se obtenga, procese, envase, transporte, comercializa, expenda, importe o exporte en el país.
             tr 
-              td.text-bold Decreto 1355 de 2001.
+              td Decreto 1355 de 2001.
               td Por el cual se adoptan medidas transitorias sobre las exportaciones de animales vivos de la especie bovina.
             tr 
-              td.text-bold Decreto 459 de 2000.
+              td Decreto 459 de 2000.
               td Por el cual se dictan normas relacionadas con los plaguicidas genéricos.
             tr 
-              td.text-bold Resolución 17 de 2012.
+              td Resolución 17 de 2012.
               td Por la cual se establece el sistema de pago de la leche cruda al proveedor.
             tr 
-              td.text-bold Resolución 310 de 2009.
+              td Resolución 310 de 2009.
               td Por la cual se determina el valor promedio nacional de los costos de establecimiento y mantenimiento por hectárea de bosque plantado, se fija la cuantía máxima porcentual que se reconocerá por concepto de certificado de incentivo forestal y se fija el Incentivo por árbol, para el año 2010.
             tr 
-              td.text-bold Resolución 36 de 2009.
+              td Resolución 36 de 2009.
               td Por la cual se reglamentan para el año 2009 los contingentes de exportación de ganado en pie de la especie bovina. (publicada diario oficial 47262 de 2009).
             tr 
-              td.text-bold Resolución 1442 de 2008.
+              td Resolución 1442 de 2008.
               td Por la cual se establece el procedimiento para la expedición del dictamen técnico-ambiental al que alude la norma andina para el registro y control de plaguicidas químicos de uso agrícola, decisión 436, de la comisión de la comunidad andina, y se toman otras determinaciones.
 
       .row.justify-content-center.mb-5
