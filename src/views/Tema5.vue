@@ -86,7 +86,7 @@
                       h4.mb-1 Tabla 3.
                       p.mb-0 Tabla de costos variables, proyecto cacao asociado a plátano.
                     .col-sm-auto
-                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 6_Tabla 3 Costos variables.xlsx')" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 6_Tabla 3. Costos variables.xlsx')" target="_blank")
                         span Consultar tabla
                         i.fas.fa-file-excel
                         
@@ -157,7 +157,7 @@
         
         .tabla-b.color-acento-botones.mb-5 
           table
-            caption Nota. Tomado de Fundación y evaluación de proyectos de inversión agropecuaria (2005) p 161.
+            caption Nota. <span style="font-weight: normal !important;">Tomado de Fundación y evaluación de proyectos de inversión agropecuaria (2005) p 161.</span>
             thead
               tr.encabezado_tabla
                 th 
@@ -169,82 +169,82 @@
             tbody 
               tr
                 td.text-start(style="width: 23%") INGRESOS
-                td 
-                td 
-                td 
-                td 
+                td -
+                td -
+                td -
+                td -
               tr
                 td.text-start.negrita Ventas
-                td 
-                td 
-                td 
-                td 
+                td -
+                td -
+                td -
+                td -
               tr
                 td.text-start.negrita Producto 1
-                td.text-end $ 0
-                td.text-end $ 0
-                td.text-end $ 120.000
-                td.text-end $ 120.000
+                td.text-end $0
+                td.text-end $0
+                td.text-end $120.000
+                td.text-end $120.000
               tr
                 td.text-start.negrita Producto 2
-                td.text-end $ 0
-                td.text-end $ 100.000
-                td.text-end $ 150.000
-                td.text-end $ 150.000
+                td.text-end $0
+                td.text-end $100.000
+                td.text-end $150.000
+                td.text-end $150.000
               tr
                 td.text-start.negrita Subsidio
-                td.text-end $ 500.00
-                td.text-end $ 100.000
-                td.text-end $ 0
-                td.text-end $ 0
+                td.text-end $500.00
+                td.text-end $100.000
+                td.text-end $0
+                td.text-end $0
               tr
                 td.text-start.negrita Valor de salvamento
                 td.text-end -
                 td.text-end -
                 td.text-end -
-                td.text-end $ 300.000
+                td.text-end $300.000
               tr.negrita(style="background-color: #D8E9FB")
                 td.text-start Total ingresos
-                td.text-end $ 500.000
-                td.text-end $ 200.000
-                td.text-end $ 270.000
-                td.text-end $ 570.000
+                td.text-end $500.000
+                td.text-end $200.000
+                td.text-end $270.000
+                td.text-end $570.000
               tr.encabezado_tabla
                 td.text-start COSTOS
-                td 
-                td 
-                td 
-                td 
+                td -
+                td -
+                td -
+                td -
               tr
                 td.text-start.negrita Operación
-                td 
-                td 
-                td 
-                td 
+                td -
+                td -
+                td -
+                td -
               tr
                 td.text-start.negrita Materiales
-                td.text-end $ 600.000
-                td.text-end $ 30.000
-                td.text-end $ 50.000
-                td.text-end $ 50.000
+                td.text-end $600.000
+                td.text-end $30.000
+                td.text-end $50.000
+                td.text-end $50.000
               tr
                 td.text-start.negrita Mano de obra
-                td.text-end $ 0
-                td.text-end $ 30.000
-                td.text-end $ 60.000
-                td.text-end $ 60.000
+                td.text-end $0
+                td.text-end $30.000
+                td.text-end $60.000
+                td.text-end $60.000
               tr.negrita(style="background-color: #D8E9FB")
                 td.text-start Total costos deducibles
-                td.text-end $ 600.000
-                td.text-end $ 60.000
-                td.text-end $ 110.000
-                td.text-end $ 110.000
+                td.text-end $600.000
+                td.text-end $60.000
+                td.text-end $110.000
+                td.text-end $110.000
               tr.negrita.encabezado_tabla
                 td.text-start Ingresos netos gravables
-                td.text-end $ -100.000
-                td.text-end $ 140.000
-                td.text-end $ 160.000
-                td.text-end $ 460.000
+                td.text-end $-100.000
+                td.text-end $140.000
+                td.text-end $160.000
+                td.text-end $460.000
           
       p.mb-3 Como se presenta en la tabla el flujo de caja está compuesto básicamente por ingresos y costos de inversión, operación y mantenimiento y los valores de salvamento, según Mendieta (2005), las siguientes son las características de ingresos y costos:
       

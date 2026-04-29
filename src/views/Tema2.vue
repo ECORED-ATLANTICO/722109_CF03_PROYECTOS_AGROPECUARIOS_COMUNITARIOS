@@ -21,13 +21,13 @@
         .col-md-12.col-lg-10
           .row.align-items-center.justify-content-center
             .col-lg-8.mb-3.mb-lg-0(data-aos="fade-left") 
-              p.mb-3 La importancia de este estudio se deriva de la posibilidad de llevar a cabo una valoración económica de las variables técnicas del proyecto que permitan una apreciación exacta o aproximada de los recursos necesarios para el proyecto; además de proporcionar información de utilidad al estudio económico-financiero. Todo estudio técnico tiene como principal objetivo el demostrar la viabilidad técnica del proyecto que justifique la alternativa técnica que mejor se adapte a los criterios de optimización. (Universidad Nacional Autónoma de México, s.f., p. 1) 
+              p.mb-3 La importancia de este estudio se deriva de la posibilidad de llevar a cabo una valoración económica de las variables técnicas del proyecto que permitan una apreciación exacta o aproximada de los recursos necesarios para el proyecto; además de proporcionar información de utilidad al estudio económico-financiero. Todo estudio técnico tiene como principal objetivo el demostrar la viabilidad técnica del proyecto que justifique la alternativa técnica que mejor se adapte a los criterios de optimización. (Universidad Nacional Autónoma de México, s.f., p. 1). 
               .cajon.bg-05.p-4.ps-5.bg_18.mb-4.mb-lg-0
                 .row.align-items-center
                   .col-md-3.mb-4.mb-lg-0.mb-md-0
                     img.mx-auto(src='@/assets/curso/tema2/img_2.svg'  alt='').w-75-sm
                   .col-md-9
-                    p.mb-0 En este aparte de la formulación de proyectos se debe realizar la descripción del proceso productivo, teniendo en cuenta que debe especificar materiales, insumos, semilla o pie de cría, fertilizantes, concentrado, cantidades, precios, etc. Además, debe indicar la cantidad y costos de la mano de obra, a continuación, vamos a describir brevemente los componentes del estudio técnico:
+                    p.mb-0 En este aparte de la formulación de proyectos se debe realizar la descripción del proceso productivo, teniendo en cuenta que debe especificar materiales, insumos, semilla o pie de cría, fertilizantes, concentrado, cantidades, precios, etc. Además, debe indicar la cantidad y costos de la mano de obra, a continuación, vamos a describir brevemente los componentes del estudio técnico.
             .col-md-8.col-lg-4.mb-3.mb-lg-0(data-aos="fade-right")
               img.mx-auto(src='@/assets/curso/tema2/img_19.png'  alt='')
       

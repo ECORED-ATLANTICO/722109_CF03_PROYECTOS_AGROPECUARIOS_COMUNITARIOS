@@ -308,7 +308,7 @@ export default {
         'Representa los bienes y derechos que posee una empresa, tales como dinero, edificios, maquinaria, cuentas por cobrar, inversiones en papeles de mercado, valorizaciones, inventarios, etc. (Miranda, 2005).',
     },
     {
-      termino: 'Administración Estratégica',
+      termino: 'Administración estratégica',
       significado:
         "En resumen la 'planeación estratégica' consiste en organizar de una manera disciplinada y sistemática, las tareas que la administración debe ejecutar para conducir a la organización hacia un futuro estable. Queda claro entonces que el fin de la planeación estratégica, es definir los objetivos a largo plazo de la empresa y diseñar los mecanismos para lograrlos; por lo tanto podemos afirmar que la planeación estratégica no pretende predecir el futuro, sino adoptar decisiones con impacto de futuro; tampoco trata de eliminar los riesgos, su finalidad es asegurar que se tomen los riesgos correctos en el momento oportuno. (Miranda, 2005).",
     },
@@ -318,12 +318,12 @@ export default {
         'Posibilidad de elegir entre opciones o soluciones diferentes. (Nuño, 2012).',
     },
     {
-      termino: 'Análisis Financiero',
+      termino: 'Análisis financiero',
       significado:
         'Es la presentación en forma procesada de la información de los estados financieros de una empresa y que sirve para la toma de decisiones económicas, tales como nuevas inversiones, fusiones, concesión de crédito, etc. (Miranda, 2005).',
     },
     {
-      termino: 'Área de Influencia',
+      termino: 'Área de influencia',
       significado:
         'Son aquellos territorios (nacional, regional, departamental, local, zonal) que serán afectados directa o indirectamente por el proyecto. (Miranda, 2005).',
     },
@@ -338,12 +338,12 @@ export default {
         'Persona o grupo de personas que reciben los beneficios de un proyecto de inversión. Persona a la cual se transfiere un activo financiero o a favor de quien se emite un título o un contrato de seguro. (Miranda, 2005).',
     },
     {
-      termino: 'Capacidad Diseñada',
+      termino: 'Capacidad diseñada',
       significado:
         'Corresponde a la capacidad técnica máxima tolerable de producción o prestación de servicio, y puede eventualmente superar a la capacidad instalada, lo que significa que en situaciones de excepción se puede trabajar con sobrecarga. (Miranda, 2005).',
     },
     {
-      termino: 'Ciclo del Proyecto',
+      termino: 'Ciclo del proyecto',
       significado:
         'Hace referencia a las etapas de preinversión (identificación, formulación y evaluación), negociación, ejecución, operación y la evaluación ex-<em>post</em>. (Miranda, 2005).',
     },
@@ -457,8 +457,7 @@ export default {
     {
       referencia:
         'Unidad de Planeación Minero Energética UPME. (2021). <em>Normatividad Ambiental y Sanitaria.</em>',
-      link:
-        'http://www.upme.gov.co/guia_ambiental/carbon/gestion/politica/normativ/normativ.htm#BM2_1_Normas_y_principios_ambientales_co',
+      link: '',
     },
     {
       referencia:

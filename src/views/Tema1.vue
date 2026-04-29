@@ -243,20 +243,20 @@
           .col-md-5.mb-3.ordenar_tarjeta 
             img.mx-auto.img-responsive(src='@/assets/curso/tema1/img_68.png'  alt='')
 
-    .row.justify-content-center.mb-5
-      .col-lg-10
-        .tarjeta-avatar-b.mb-3
-          .tarjeta-avatar-b__img
-            img.mx-auto(src='@/assets/curso/tema1/icon-tarjeta.svg' alt='', style="width: 100px;")
-          .tarjeta.bg-tarjeta.align-content-center
-            .row.align-items-center.justify-content-center.p-4
-              .col.mb-3.mb-sm-0
-                h4.mb-2 Identificación del bien o servicio
-                p.mb-0 Estimado aprendiz, para la identificación inicialmente debemos tener presente a qué sector productivo pertenece el producto agropecuario. A continuación más detalle a través del siguiente video:
-              .col-sm-auto
-                a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=11nSFfxNmQ4" target="_blank")
-                  span Ver video
-                  i.fas.fa-play
+    //- .row.justify-content-center.mb-5
+    //-   .col-lg-10
+    //-     .tarjeta-avatar-b.mb-3
+    //-       .tarjeta-avatar-b__img
+    //-         img.mx-auto(src='@/assets/curso/tema1/icon-tarjeta.svg' alt='', style="width: 100px;")
+    //-       .tarjeta.bg-tarjeta.align-content-center
+    //-         .row.align-items-center.justify-content-center.p-4
+    //-           .col.mb-3.mb-sm-0
+    //-             h4.mb-2 Identificación del bien o servicio
+    //-             p.mb-0 Estimado aprendiz, para la identificación inicialmente debemos tener presente a qué sector productivo pertenece el producto agropecuario. A continuación más detalle a través del siguiente video:
+    //-           .col-sm-auto
+    //-             a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=11nSFfxNmQ4" target="_blank")
+    //-               span Ver video
+    //-               i.fas.fa-play
 
     .tarjeta.tarjeta.bg-05.p-4.slyder_1.img_fondo_3
       SlyderA(tipo="b").tarjeta--blanca(style="border-radius: 20px")
@@ -467,20 +467,20 @@
                   p.mb-0 <b>Características de los compradores o usuarios</b> (edad, sexo, raza, nivel de ingresos, tamaño de la familia, etc.) (Miranda, 2005, p. 99).
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #B19540;") H
       
-    .row.justify-content-center.mb-0
-      .col-lg-10
-        .tarjeta-avatar-b.mb-3
-          .tarjeta-avatar-b__img
-            img.mx-auto(src='@/assets/curso/tema1/icon-tarjeta.svg' alt='', style="width: 100px;")
-          .tarjeta.bg-tarjeta.align-content-center
-            .row.align-items-center.justify-content-center.p-3
-              .col.mb-3.mb-sm-0
-                h4.mb-2 Recurso PDF
-                p.text-small.mb-0 Infografía - Identificación de la demanda.
-              .col-sm-auto
-                a.text-small.boton.color-acento-botones(href="https://www.youtube.com/watch?v=11nSFfxNmQ4" target="_blank")
-                  span Descargar PDF  
-                  i.fas.fa-file-pdf
+    //- .row.justify-content-center.mb-0
+    //-   .col-lg-10
+    //-     .tarjeta-avatar-b.mb-3
+    //-       .tarjeta-avatar-b__img
+    //-         img.mx-auto(src='@/assets/curso/tema1/icon-tarjeta.svg' alt='', style="width: 100px;")
+    //-       .tarjeta.bg-tarjeta.align-content-center
+    //-         .row.align-items-center.justify-content-center.p-3
+    //-           .col.mb-3.mb-sm-0
+    //-             h4.mb-2 Recurso PDF
+    //-             p.text-small.mb-0 Infografía - Identificación de la demanda.
+    //-           .col-sm-auto
+    //-             a.text-small.boton.color-acento-botones(href="https://www.youtube.com/watch?v=11nSFfxNmQ4" target="_blank")
+    //-               span Descargar PDF  
+    //-               i.fas.fa-file-pdf
 
     Separador  
     
@@ -508,43 +508,43 @@
             .row.justify-content-center.mb-3
               .col-12
                 img(src="@/assets/curso/tema1/img_43.svg", alt="alt").w-50.m-auto
-            p.text-center.mb-0 Nombre de la empresa
+            p.text-center.mb-0 Nombre de la empresa.
 
           .tarjeta.tarjeta--slyder.bg-97.p-4
             .row.justify-content-center.mb-3
               .col-12
                 img(src="@/assets/curso/tema1/img_44.svg", alt="alt").w-50.m-auto
-            p.text-center.mb-0 Características de su producción (artesanal o industrial)
+            p.text-center.mb-0 Características de su producción (artesanal o industrial).
 
           .tarjeta.tarjeta--slyder.bg-97.p-4
             .row.justify-content-center.mb-3
               .col-12
                 img(src="@/assets/curso/tema1/img_45.svg", alt="alt").w-50.m-auto
-            p.text-center.mb-0 Precios de los insumos
+            p.text-center.mb-0 Precios de los insumos.
 
           .tarjeta.tarjeta--slyder.bg-97.p-4
             .row.justify-content-center.mb-3
               .col-12
                 img(src="@/assets/curso/tema1/img_46.svg", alt="alt").w-50.m-auto
-            p.text-center.mb-0 Participación en el mercado
+            p.text-center.mb-0 Participación en el mercado.
 
           .tarjeta.tarjeta--slyder.bg-97.p-4
             .row.justify-content-center.mb-3
               .col-12
                 img(src="@/assets/curso/tema1/img_47.svg", alt="alt").w-50.m-auto
-            p.text-center.mb-0 Sistemas de comercialización
+            p.text-center.mb-0 Sistemas de comercialización.
 
           .tarjeta.tarjeta--slyder.bg-97.p-4
             .row.justify-content-center.mb-3
               .col-12
                 img(src="@/assets/curso/tema1/img_48.svg", alt="alt").w-50.m-auto
-            p.text-center.mb-0 Sistema de ventas (crédito, contado) y canales de comercialización
+            p.text-center.mb-0 Sistema de ventas (crédito, contado) y canales de comercialización.
 
           .tarjeta.tarjeta--slyder.bg-97.p-4
             .row.justify-content-center.mb-3
               .col-12
                 img(src="@/assets/curso/tema1/img_49.svg", alt="alt").w-50.m-auto
-            p.text-center.mb-0 Localización
+            p.text-center.mb-0 Localización.
 
     .row.justify-content-center.mb-0.align-items-center
       .col-md-12.col-lg-10.d-none.d-lg-block
@@ -603,7 +603,7 @@
     #t_1_5.titulo-segundo.color-acento-contenido
       .h2(data-aos="fade-right") 1.5 Estrategia de mercadeo agrícola
       
-    p.mb-4 La parte final del estudio de mercado se debe establecer una estrategia del producto seleccionado, por lo que establecer una estrategia de mercadeo, esta debe presentar una combinación de elementos comerciales conocida como las cuatro:
+    p.mb-4 La parte final del estudio de mercado se debe establecer una estrategia del producto seleccionado, por lo que establecer una estrategia de mercadeo, esta debe presentar una combinación de elementos comerciales conocida como las cuatro P:
     
     .row.align-items-center.justify-content-center.mb-5
       .col-md-8.mb-5
