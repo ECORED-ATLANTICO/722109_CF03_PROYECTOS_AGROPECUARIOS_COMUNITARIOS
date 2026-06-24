@@ -22,7 +22,7 @@
           li 
             .lista-ol--cuadro__vineta
               span B
-            | La evaluación financiera del proyecto utilizando Valor Presente Neto (VPN) Tasa Interna de Retorno (TIR) y relación Beneficio / Costo (B/C).
+            | La evaluación financiera del proyecto utilizando Valor Presente Neto (VPN), Tasa Interna de Retorno (TIR) y relación Beneficio / Costo (B/C).
 
     .row.justify-content-center.align-items-center.mb-2(date-aos="fade-zoom-in")
       .col-lg-12.mb-5
@@ -31,7 +31,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema5/img_2.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 En esta primera parte se va a trabajar la organización metódica (organizada) de los costos de producción y los ingresos del proyecto. El año uno o año cero es el momento en el que se realizan las inversiones iniciales del proyecto cuando se comienza a invertir en adecuaciones de terrenos, construcciones agrícolas o pecuarias, compra de semilla o semovientes, etc; periodo de inversión o montaje.
+            p.mb-0 En esta primera parte se va a trabajar la organización metódica (organizada) de los costos de producción y los ingresos del proyecto. El año uno o año cero es el momento en el que se realizan las inversiones iniciales del proyecto cuando se comienza a invertir en adecuaciones de terrenos, construcciones agrícolas o pecuarias, compra de semilla o semovientes, etc.; periodo de inversión o montaje.
 
     p.mb-5 En el análisis de los costos lo primero es identificar los dos tipos de costos que existen: costos fijos son aquellos que no cambian según el nivel de producción, por ejemplo, arriendo, vigilancia, depreciación de máquinas o seguros y los costos variables son los que aumentan o disminuyen dependiendo del volumen de producción como mano de obra, insumos, semilla, pie de cría, concentrado, vacunas, fertilizantes, etc.
 
@@ -61,7 +61,7 @@
                     h4.mb-1 Tabla 2.
                     p.mb-0 Tabla de costos fijos, proyecto cacao asociado a plátano.
                   .col-sm-auto
-                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 5_Tabla 2 Costos fijos.xlsx')" target="_blank")
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/ANEXO_5_TABLA_2_COSTOS_FIJOS.xlsx')" target="_blank")
                       span Consultar tabla
                       i.fas.fa-file-excel
                       
@@ -86,7 +86,7 @@
                       h4.mb-1 Tabla 3.
                       p.mb-0 Tabla de costos variables, proyecto cacao asociado a plátano.
                     .col-sm-auto
-                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 6_Tabla 3. Costos variables.xlsx')" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/ANEXO_6_TABLA_3_COSTOS_VARIABLES.xlsx')" target="_blank")
                         span Consultar tabla
                         i.fas.fa-file-excel
                         
@@ -118,7 +118,7 @@
                 img.img-t.m-auto.mt-2(src='@/assets/curso/tema5/img_3.svg', alt='')
               .tarjeta.bg-98.shadow-sm.position-relative.h-100.d-flex.align-items-center.w-100
                 .p-3
-                  p.pe-4.mb-0 Los beneficios (ingreso) de operación.
+                  p.pe-4.mb-0 Los beneficios (ingresos) de operación.
                 h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #647A84;") A
           
           .col-lg-6.mb-2.d-flex
@@ -157,7 +157,7 @@
         
         .tabla-b.color-acento-botones.mb-5 
           table
-            caption Nota. <span style="font-weight: normal !important;">Tomado de Fundación y evaluación de proyectos de inversión agropecuaria (2005) p 161.</span>
+            caption Nota. <span style="font-weight: normal !important;">Tomado de Formulación y evaluación de proyectos de inversión agropecuaria (2005) p 161.</span>
             thead
               tr.encabezado_tabla
                 th 
@@ -181,34 +181,34 @@
                 td -
               tr
                 td.text-start.negrita Producto 1
-                td.text-end $0
-                td.text-end $0
-                td.text-end $120.000
-                td.text-end $120.000
+                td.text-end $ 0
+                td.text-end $ 0
+                td.text-end $ 120.000
+                td.text-end $ 120.000
               tr
                 td.text-start.negrita Producto 2
-                td.text-end $0
-                td.text-end $100.000
-                td.text-end $150.000
-                td.text-end $150.000
+                td.text-end $ 0
+                td.text-end $ 100.000
+                td.text-end $ 150.000
+                td.text-end $ 150.000
               tr
                 td.text-start.negrita Subsidio
-                td.text-end $500.00
-                td.text-end $100.000
-                td.text-end $0
-                td.text-end $0
+                td.text-end $ 500.00
+                td.text-end $ 100.000
+                td.text-end $ 0
+                td.text-end $ 0
               tr
                 td.text-start.negrita Valor de salvamento
                 td.text-end -
                 td.text-end -
                 td.text-end -
-                td.text-end $300.000
+                td.text-end $ 300.000
               tr.negrita(style="background-color: #D8E9FB")
                 td.text-start Total ingresos
-                td.text-end $500.000
-                td.text-end $200.000
-                td.text-end $270.000
-                td.text-end $570.000
+                td.text-end $ 500.000
+                td.text-end $ 200.000
+                td.text-end $ 270.000
+                td.text-end $ 570.000
               tr.encabezado_tabla
                 td.text-start COSTOS
                 td -
@@ -223,28 +223,28 @@
                 td -
               tr
                 td.text-start.negrita Materiales
-                td.text-end $600.000
-                td.text-end $30.000
-                td.text-end $50.000
-                td.text-end $50.000
+                td.text-end $ 600.000
+                td.text-end $ 30.000
+                td.text-end $ 50.000
+                td.text-end $ 50.000
               tr
                 td.text-start.negrita Mano de obra
-                td.text-end $0
-                td.text-end $30.000
-                td.text-end $60.000
-                td.text-end $60.000
+                td.text-end $ 0
+                td.text-end $ 30.000
+                td.text-end $ 60.000
+                td.text-end $ 60.000
               tr.negrita(style="background-color: #D8E9FB")
                 td.text-start Total costos deducibles
-                td.text-end $600.000
-                td.text-end $60.000
-                td.text-end $110.000
-                td.text-end $110.000
+                td.text-end $ 600.000
+                td.text-end $ 60.000
+                td.text-end $ 110.000
+                td.text-end $ 110.000
               tr.negrita.encabezado_tabla
                 td.text-start Ingresos netos gravables
-                td.text-end $-100.000
-                td.text-end $140.000
-                td.text-end $160.000
-                td.text-end $460.000
+                td.text-end $ -100.000
+                td.text-end $ 140.000
+                td.text-end $ 160.000
+                td.text-end $ 460.000
           
       p.mb-3 Como se presenta en la tabla el flujo de caja está compuesto básicamente por ingresos y costos de inversión, operación y mantenimiento y los valores de salvamento, según Mendieta (2005), las siguientes son las características de ingresos y costos:
       

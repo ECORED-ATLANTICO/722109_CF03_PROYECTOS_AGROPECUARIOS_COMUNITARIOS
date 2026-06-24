@@ -16,7 +16,7 @@
         .cajon.color-secundario.p-4.ps-5.bg-05.mb-4.mb-lg-0
           p.mb-0 Cuando se hace referencia al mercado, se está hablando de los factores que influyen en este y la comercialización del bien agrícola o pecuario que será objeto del proyecto; para el desarrollo de este estudio se debe hacer referencia de la identificación del bien (piscicultura, ganadería de leche o de carne, cacao, arándano).
 
-      p.mb-0 En el análisis de mercado es necesario conocer las preferencias de los consumidores, identificar quienes van a proveer los insumos necesarios para el proceso de producción, transporte de insumos y productos, conocer la normatividad que rige el sector o que es necesaria para iniciar el trámite para exportación si es del caso, además de los requerimientos técnicos, sanitarios y legales del país donde va a ser enviado el producto.
+      p.mb-0 En el análisis de mercado es necesario conocer las preferencias de los consumidores, identificar quiénes van a proveer los insumos necesarios para el proceso de producción, transporte de insumos y productos, conocer la normatividad que rige el sector o que es necesaria para iniciar el trámite para exportación si es del caso, además de los requerimientos técnicos, sanitarios y legales del país donde va a ser enviado el producto.
     
     .row.justify-content-center.align-items-stretch.mb-4
       h3.text-center.mb-4 Se debe recordar que las funciones del mercadeo son: 
@@ -29,7 +29,7 @@
             .col
               .row.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Ejecutar el mercado tomando en cuenta al <b>consumidor.</b>
+                  p.mb-0 Ejecutar el mercado tomando en cuenta al consumidor.
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #4F647A;") A
 
       .col-md-12.col-lg-6.mb-3.d-flex
@@ -40,7 +40,7 @@
             .col
               .row.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Investigar permanentemente al <b> consumidor, considerar la competencia, los productos más vendidos y los diferentes mercados.</b>
+                  p.mb-0 Investigar permanentemente al  consumidor, considerar la competencia, los productos más vendidos y los diferentes mercados.
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #B19540;") B
       
       .col-md-12.col-lg-6.mb-3.d-flex
@@ -51,7 +51,7 @@
             .col
               .row.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Seleccionar los clientes importantes y buscar <b>fidelizarlos.</b>
+                  p.mb-0 Seleccionar los clientes importantes y buscar fidelizarlos.
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #4F647A;") C
       
       .col-md-12.col-lg-6.mb-3.d-flex
@@ -62,7 +62,7 @@
             .col
               .row.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Explorar los mercados <b>innovadores.</b>
+                  p.mb-0 Explorar los mercados innovadores.
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #B19540;") D
       
       .col-md-12.col-lg-6.mb-3.d-flex
@@ -73,7 +73,7 @@
             .col
               .row.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Acoplarse y responder rápido a <b>la innovación.</b>
+                  p.mb-0 Acoplarse y responder rápido a la innovación.
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #4F647A;") E
       
       .col-md-12.col-lg-6.mb-3.d-flex
@@ -84,7 +84,7 @@
             .col
               .row.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Proteger el producto de diversas <b> amenazas del mercado.</b>
+                  p.mb-0 Proteger el producto de diversas  amenazas del mercado.
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #B19540;") F
       
       .col-md-12.col-lg-6.mb-3.d-flex
@@ -95,7 +95,7 @@
             .col
               .row.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Realizar y promocionar <b>la marca.</b>
+                  p.mb-0 Realizar y promocionar la marca.
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #4F647A;") G
       
       .col-md-12.col-lg-6.mb-5.mb-lg-3.d-flex
@@ -106,10 +106,10 @@
             .col
               .row.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Buscar <b>liderar el mercado.</b> (enciclopedia económica, 2021).
+                  p.mb-0 Buscar liderar el mercado. (enciclopedia económica, 2021).
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #B19540;") H
 
-    p.mb-4 De manera alterna se debe identificar variables como: <b>el precio, origen, calidad, disponibilidad en el mercado local o regional</b> de los insumos que son necesarios para la producción del bien que se pretende producir.
+    p.mb-4 De manera alterna se deben identificar variables como: el precio, origen, calidad, disponibilidad en el mercado local o regional de los insumos que son necesarios para la producción del bien que se pretende producir.
 
 
     .row.justify-content-center.align-items-center.mb-2
@@ -119,7 +119,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img_64.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 En el estudio de mercado es <b>imprescindible realizar una descripción del motivo por el cual se realiza el proyecto</b>, si se formula para abrir nuevos mercados en el exterior, para comercializar como un nuevo producto, para sustituir importaciones o con el fin de competir con productos tradicionales; otro ítem a tener en cuenta, son <b>las condiciones del mercado objetivo</b>, aquí es preciso tener el conocimiento de las características que presenta el mercado local, mercado regional, mercado nacional o el mercado externo al cual va dirigido el proyecto.
+            p.mb-0 En el estudio de mercado es imprescindible realizar una descripción del motivo por el cual se realiza el proyecto, si se formula para abrir nuevos mercados en el exterior, para comercializar como un nuevo producto, para sustituir importaciones o con el fin de competir con productos tradicionales; otro ítem a tener en cuenta, son las condiciones del mercado objetivo, aquí es preciso tener el conocimiento de las características que presenta el mercado local, mercado regional, mercado nacional o el mercado externo al cual va dirigido el proyecto.
     
     Separador
 
@@ -165,14 +165,14 @@
   
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-7.mb-3(data-aos="fade-left") 
-        p.mb-3 En el estudio de mercado del sector agropecuario (primario), se debe tener en cuenta que los productos o bienes que son objeto de comercialización son organismos vivos, por lo tanto, para la identificación del producto se debe tener en cuenta características que le otorgan valor en el mercado como: el grado de madurez, la firmeza, color, presentación, peso o si es un producto transformado que necesita condiciones de conservación específicas; en este componente se debe identificar los parámetros que generan valor en el producto y o van a diferenciar del producto de la competencia.
+        p.mb-3 En el estudio de mercado del sector agropecuario (primario), se debe tener en cuenta que los productos o bienes que son objeto de comercialización son organismos vivos, por lo tanto, para la identificación del producto se deben tener en cuenta características que le otorgan valor en el mercado como: el grado de madurez, la firmeza, color, presentación, peso o si es un producto transformado que necesita condiciones de conservación específicas; en este componente se debe identificar los parámetros que generan valor en el producto y/o van a diferenciar del producto de la competencia.
         
         .cajon.bg-04.p-3.bg_18.mb-4.mb-lg-0
           .row
             .col-md-2.mb-4.mb-lg-0
               img.mx-auto.w-auto(src='@/assets/curso/tema1/img_14.svg'  alt='')
             .col-md-10.mb-4.mb-md-0.justify-content-center.flex-column.d-flex
-              p.mb-0 <b> Una posible caracterización para los productos agrícolas y pecuarios es el que se propone a continuación:</b>
+              p.mb-0  Una posible caracterización para los productos agrícolas y pecuarios es la que se propone a continuación:
       
       .col-lg-5.mb-3(data-aos="fade-right")
         img.mt-3.mx-auto.img-responsive(src='@/assets/curso/tema1/img_66.png'  alt='')
@@ -272,7 +272,7 @@
         .row.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-4.mb-4.mb-md-0
             h4 Usuario
-            p Aquí se establece la ubicación espacial de los consumidores finales, además identificar, gustos, fiestas nacionales, credo religioso, actividades comunitarias, nivel de ingreso, sexo, estrato. (Miranda, 2005, p. 93).
+            p Aquí se establece la ubicación espacial de los consumidores finales, además, identificar gustos, fiestas nacionales, credo religioso, actividades comunitarias, nivel de ingreso, sexo, estrato. (Miranda, 2005, p. 93).
 
           .col-md-8
             figure
@@ -296,7 +296,7 @@
         .row.ordenar_tarjeta.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-8.mb-4.mb-md-0
             h4 Composición
-            p Si es un producto procesado se indica que insumos se usaron en la producción, esto también ayuda a identificar si los insumos usados en el proceso se consiguen en la región, el costo, tipo de transporte, la disponibilidad, etc. (Miranda, 2005, p. 93).
+            p Si es un producto procesado se indica qué insumos se usaron en la producción, esto también ayuda a identificar si los insumos usados en el proceso se consiguen en la región, el costo, tipo de transporte, la disponibilidad, etc. (Miranda, 2005, p. 93).
 
           .col-md-4
             figure
@@ -304,7 +304,7 @@
         .row.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-4.mb-4.mb-md-0
             h4 Producto
-            p Establecer si el producto es de consumo final (duradero o perecedero, necesario o suntuario, habitual no habitual, etc.); producto de temporada, tradicionales, de alta o baja rotación, etc. (Miranda, 2005, p. 93).
+            p Establecer si el producto es de consumo final (duradero o perecedero, necesario o suntuario, habitual o no habitual, etc.); producto de temporada, tradicionales, de alta o baja rotación, etc. (Miranda, 2005, p. 93).
 
           .col-md-8
             figure
@@ -327,7 +327,7 @@
         .row.justify-content-center.align-items-center.my-lg-4.p-5
           .col-md-8.mb-4.mb-md-0
             h4 Condiciones legales
-            p En este ítem debe realizarse una revisión de la normatividad vigente que pueda afectar el proceso de producción y comercialización; por ejemplo la resolución 407 de 2019 en la que establecen los Planes Departamentales de Extensión Agropecuaria PDEA, en los que se priorizan las líneas productivas que van a recibir recursos públicos para inversión; o la resolución del Instituto Colombiano Agropecuario ICA 4174 de 2009 en la que se reglamenta la certificación en buena prácticas agrícolas en la producción primaria de fruta y vegetales para consumo en fresco o incluso, la resolución ICA 448 de 2016 que permite el registro de predios de producción de fruta fresca para exportación y el registro de los exportadores y plantas empacadoras.
+            p En este ítem debe realizarse una revisión de la normatividad vigente que pueda afectar el proceso de producción y comercialización; por ejemplo la Resolución 407 de 2019 en la que establecen los Planes Departamentales de Extensión Agropecuaria PDEA, en los que se priorizan las líneas productivas que van a recibir recursos públicos para inversión; o la Resolución del Instituto Colombiano Agropecuario ICA 4174 de 2009 en la que se reglamenta la certificación en buenas prácticas agrícolas en la producción primaria de fruta y vegetales para consumo en fresco o incluso, la Resolución ICA 448 de 2016 que permite el registro de predios de producción de fruta fresca para exportación y el registro de los exportadores y plantas empacadoras.
 
           .col-md-4
             figure
@@ -362,7 +362,7 @@
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-8.mb-3(data-aos="fade-left") 
         .cajon.bg-05.p-4.ps-5.mb-4.mb-lg-0
-          p.mb-0 En el desarrollo del análisis de la demanda, se debe determinar la población objetivo, es el grupo de personas a las cuales se les desea vender el producto, esta población debe caracterizarse teniendo en cuenta valores como edad, sexo, nivel escolar, estado civil, tamaño de la población (número de personas), tasa de crecimiento; además se debe obtener información sobre nivel actual del ingreso y establecer la zona de influencia que es identificar en lo posible sobre un mapa la zona geográfica en la que se desea comercializar el producto objeto del proyecto; la información anterior también es conocida como área de mercado.
+          p.mb-0 En el desarrollo del análisis de la demanda, se debe determinar la población objetivo, qué es el grupo de personas a las cuales se les desea vender el producto, esta población debe caracterizarse teniendo en cuenta valores como edad, sexo, nivel escolar, estado civil, tamaño de la población (número de personas), tasa de crecimiento; además se debe obtener información sobre nivel actual del ingreso y establecer la zona de influencia que es identificar en lo posible sobre un mapa la zona geográfica en la que se desea comercializar el producto objeto del proyecto; la información anterior también es conocida como área de mercado.
         
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-7.mb-3(data-aos="fade-right") 
@@ -371,7 +371,7 @@
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             p.mb-0 Todos los mercados están compuestos por una serie de submercados o “segmentos” de consumidores que tienen entre ellos características comunes de tipo demográfico, geográfico, psicológico, económico, étnico, cultural, etc. <br>
-            p.mb-1 <b> - (Miranda, 2005, p. 99).</b>
+            p.mb-1  - (Miranda, 2005, p. 99).
             i.fas.fa-quote-right
       .col-lg-5.mb-3(data-aos="fade-left")
         img.mt-3.mx-auto.img-responsive(src='@/assets/curso/tema1/img_70.png'  alt='')
@@ -387,7 +387,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 El número actual de <b>demandantes.</b>
+                  p.mb-0 El número actual de demandantes.
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #4F647A;") A
 
       .col-md-12.col-lg-6.mb-3.d-flex
@@ -398,7 +398,7 @@
             .col
               .row.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 El número potencial estimado de <b>compradores del bien o servicio.</b>
+                  p.mb-0 El número potencial estimado de compradores del bien o servicio.
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #B19540;") B
       
       .col-md-12.col-lg-6.mb-3.d-flex
@@ -409,7 +409,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 <b>Los lugares donde suelen hacer las compras </b> los consumidores (zonas urbanas/rurales, grandes supermercados, pequeños expendios, tiendas virtuales, si el bien o servicio entrega a nivel domiciliario).
+                  p.mb-0 Los lugares donde suelen hacer las compras  los consumidores (zonas urbanas, zonas rurales, grandes supermercados, pequeños expendios, tiendas virtuales, si el bien o servicio entrega a nivel domiciliario).
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #4F647A;") C
       
       .col-md-12.col-lg-6.mb-3.d-flex
@@ -420,7 +420,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 La <b>ubicación geográfica</b> de los productores y distribuidores.
+                  p.mb-0 La ubicación geográfica de los productores y distribuidores.
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #B19540;") D
       
       .col-md-12.col-lg-6.mb-3.d-flex
@@ -442,7 +442,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 <b>Motivación y actitudes</b> con respecto a la mercancía adquirida, el ritual de compra.
+                  p.mb-0 Motivación y actitudes con respecto a la mercancía adquirida, el ritual de compra.
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #B19540;") F
       
       .col-md-12.col-lg-6.mb-3.d-flex
@@ -453,7 +453,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Indicadores de <b>cambio en los hábitos de compra.</b>
+                  p.mb-0 Indicadores de cambio en los hábitos de compra.
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #4F647A;") G
       
       .col-md-12.col-lg-6.mb-3.d-flex
@@ -464,7 +464,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 <b>Características de los compradores o usuarios</b> (edad, sexo, raza, nivel de ingresos, tamaño de la familia, etc.) (Miranda, 2005, p. 99).
+                  p.mb-0 Características de los compradores o usuarios (edad, sexo, raza, nivel de ingresos, tamaño de la familia, etc.) (Miranda, 2005, p. 99).
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #B19540;") H
       
     //- .row.justify-content-center.mb-0
@@ -496,10 +496,10 @@
           .bloque-texto-b__texto
             i.fas.fa-quote-left
             p.mb-0 La oferta es también una variable que depende de otras, tales como: los costos y disponibilidad de los insumos, las restricciones determinadas por el gobierno, los desarrollos tecnológicos, las alteraciones del clima (especialmente en la oferta agrícola y agroindustrial), los precios de los bienes sustitutos y complementarios, la capacidad instalada de la competencia, etc. <br>
-            p.mb-1 <b> - (Miranda, 2005, p. 99).</b>
+            p.mb-1  - (Miranda, 2005, p. 99).
             i.fas.fa-quote-right
     
-    p.mb-5.text-center <b>Para iniciar la identificación de la oferta, es necesario generar una lista con los datos de los proveedores de insumos con la siguiente información:</b>
+    p.mb-5.text-center Para iniciar la identificación de la oferta, es necesario generar una lista con los datos de los proveedores de insumos con la siguiente información:
       
     .row.justify-content-center.mb-5
       .col-lg-12.mb-0
@@ -603,7 +603,7 @@
     #t_1_5.titulo-segundo.color-acento-contenido
       .h2(data-aos="fade-right") 1.5 Estrategia de mercadeo agrícola
       
-    p.mb-4 La parte final del estudio de mercado se debe establecer una estrategia del producto seleccionado, por lo que establecer una estrategia de mercadeo, esta debe presentar una combinación de elementos comerciales conocida como las cuatro P:
+    p.mb-4 En la parte final del estudio de mercado se debe establecer una estrategia del producto seleccionado, por lo que establecer una estrategia de mercadeo, esta debe presentar una combinación de elementos comerciales conocida como las cuatro P:
     
     .row.align-items-center.justify-content-center.mb-5
       .col-md-8.mb-5
@@ -614,7 +614,7 @@
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-12.mb-3(data-aos="fade-left") 
         .cajon.bg-05.p-4.ps-5.mb-4.mb-lg-2
-          p.mb-0 Para definir el <b>producto</b> es necesario responder a la pregunta ¿es un producto final o es un producto industrial?, el segundo paso es determinar la calidad del producto y estandarizarlo; para esto debe tener en cuenta el ciclo de vida del producto y sus cuatro etapas introducción, aceptación o crecimiento acelerado, maduración y declinación. Recuerde que las especificaciones y calidad del producto deben ser muy específicas para que puedan ser comercializadas en el mercado deseado.
+          p.mb-0 Para definir el producto es necesario responder a la pregunta ¿es un producto final o es un producto industrial?, el segundo paso es determinar la calidad del producto y estandarizarlo; para esto debe tener en cuenta el ciclo de vida del producto y sus cuatro etapas: introducción, aceptación o crecimiento acelerado, maduración y declinación. Recuerde que las especificaciones y calidad del producto deben ser muy específicas para que puedan ser comercializadas en el mercado deseado.
         
     .row.align-items-center.justify-content-center.mb-4
       .col-md-10.mb-4
@@ -652,12 +652,12 @@
             img.img-t.m-auto.d-none.d-lg-block.d-md-block(src='@/assets/curso/tema1/img_57.svg', alt='').w-75
           .tarjeta.bg-96.shadow-sm
             .p-4
-              p.mb-0 En la <b>promoción</b> se debe resaltar las cualidades del producto para poder diferenciarlo de los demás, otorgándole una característica de valor que lo identifique; para poder tener éxito en el proceso es necesario realizar no solo la publicidad del producto sino establecer relaciones públicas y promoción. Tenga en cuenta en el momento de realizar la publicidad de:
+              p.mb-0 En la promoción se deben resaltar las cualidades del producto para poder diferenciarlo de los demás, otorgándole una característica de valor que lo identifique; para poder tener éxito en el proceso es necesario realizar no solo la publicidad del producto sino establecer relaciones públicas y promoción. Tenga en cuenta en el momento de realizar la publicidad de:
       
       .col-lg-10.mb-3.d-block.d-lg-none
          .tarjeta.bg-96.shadow-sm
             .p-4
-              p.mb-0 En la <b>promoción</b> se debe resaltar las cualidades del producto para poder diferenciarlo de los demás, otorgándole una característica de valor que lo identifique; para poder tener éxito en el proceso es necesario realizar no solo la publicidad del producto sino establecer relaciones públicas y promoción. Tenga en cuenta en el momento de realizar la publicidad de:
+              p.mb-0 En la promoción se deben resaltar las cualidades del producto para poder diferenciarlo de los demás, otorgándole una característica de valor que lo identifique; para poder tener éxito en el proceso es necesario realizar no solo la publicidad del producto sino establecer relaciones públicas y promoción. Tenga en cuenta en el momento de realizar la publicidad de:
 
       .col-lg-5.col-lg.mb-3.mb-lg-0
         .tarjeta-avatar
@@ -671,14 +671,14 @@
           img(src='@/assets/curso/tema1/img_59.svg' alt='AvatarTop')
           .tarjeta.bg-94
             .p-4
-              p.text-center Indicar la razón porque su producto es mejor que el de la competencia y por eso deben adquirirlo.
+              p.text-center Indicar la razón por la que su producto es mejor que el de la competencia y por eso deben adquirirlo.
     
     .row.justify-content-center.align-items-center.mb-0
       .col-md-12.col-lg-10
         .row.justify-content-center.align-items-center.mb-0
           .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right") 
             .cajon.bg-97.p-4.ps-5
-              p.mb-0 Con la finalidad de mejorar el precio de venta del producto se debe diseñar la estrategia para la distribución en la <b>plaza</b> o sitio de venta final del producto y los costos que implican realizar esta labor; la idea de este ejercicio es realizar el trabajo que hacen los intermediarios de conocer los contactos para realizar las transacciones y poseer la información de los mercados, además financiar las promociones y agregar valor en tiempo, espacio y volumen para facilitar la comercialización de la mercancía.
+              p.mb-0 Con la finalidad de mejorar el precio de venta del producto se debe diseñar la estrategia para la distribución en la plaza o sitio de venta final del producto y los costos que implican realizar esta labor; la idea de este ejercicio es realizar el trabajo que hacen los intermediarios de conocer los contactos para realizar las transacciones y poseer la información de los mercados, además financiar las promociones y agregar valor en tiempo, espacio y volumen para facilitar la comercialización de la mercancía.
           .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
             img.mx-auto(src='@/assets/curso/tema1/img_73.png'  alt='')
 

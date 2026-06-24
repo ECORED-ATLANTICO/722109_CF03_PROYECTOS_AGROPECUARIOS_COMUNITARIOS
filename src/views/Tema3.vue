@@ -32,7 +32,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema3/img_3.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 El propósito de la planeación estratégica es identificar para donde desea que va a ir su empresa, usando las tendencias del mercado, sociales y económicas; luego, comienza el proceso para generar la misión, visión, objetivos, políticas, estrategias, valores, etc. A continuación se relaciona una breve descripción de cada uno:
+            p.mb-0 El propósito de la planeación estratégica es identificar hacia dónde desea que vaya su empresa, usando las tendencias del mercado, sociales y económicas; luego, comienza el proceso para generar la misión, visión, objetivos, políticas, estrategias, valores, etc. A continuación se relaciona una breve descripción de cada uno:
     
     .row.justify-content-center.align-items-center.mb-2
       .col-md-12
@@ -47,7 +47,7 @@
 
           .row(numero="2" titulo="Visión").justify-content-center.align-items-center
             .col-md-12.col-lg-7.mb-lg-4.mb-3
-              p.mb-0 Para indicar el rumbo de la empresa con el fin de guiar las políticas generadas desde la gerencia y sus colaboradores (operario, supervisores, técnicos, personal administrativo). Ejemplo, comprometernos en ser la empresa agropecuaria líder en Colombia, para lograrlo invertiremos en investigación, desarrollo del capital humano y productivo para alcanzar los resultados financieros establecidos, sin perder de vista la sostenibilidad ambiental de la región.
+              p.mb-0 Para indicar el rumbo de la empresa con el fin de guiar las políticas generadas desde la gerencia y sus colaboradores (operarios, supervisores, técnicos, personal administrativo). Ejemplo, comprometernos en ser la empresa agropecuaria líder en Colombia, para lograrlo invertiremos en investigación, desarrollo del capital humano y productivo para alcanzar los resultados financieros establecidos, sin perder de vista la sostenibilidad ambiental de la región.
       
             .col-md-8.col-lg-5
               figure
@@ -63,7 +63,7 @@
           
           .row(numero="4" titulo="Políticas").justify-content-center.align-items-center
             .col-md-12.col-lg-7.mb-lg-4.mb-3
-              p.mb-0 Generan lineamientos para el trabajo en la empresa agropecuaria, la política es generada desde la gerencia del proyecto. Ejemplo, la dirección de grupo Agrosana entiende que la calidad de sus servicios y productos debe estar orientada hacia la satisfacción de las expectativas de nuestros clientes, como elemento diferenciador y fundamental que asegura el éxito en la “venta al por mayor de fitosanitarios, fertilizantes y productos auxiliares para uso agrícola”. Pretendemos seguir avanzando para llevar nuestro espíritu de vanguardia y calidad para que de esta forma cada vez más empresas puedan disfrutar de todos nuestros productos y servicios, haciendo de grupo Agrosana, una empresa de referencia en el mercado nacional. A fin de cumplir con esta política, grupo Agrosana ha establecido un sistema de gestión de la calidad conforme a los requisitos de la norma UNE-EN-ISO-9001:2015, cuyas estipulaciones son de obligado cumplimiento. Agrosana, 2015.
+              p.mb-0 Generan lineamientos para el trabajo en la empresa agropecuaria, la política es generada desde la gerencia del proyecto. Ejemplo, la dirección de Grupo Agrosana entiende que la calidad de sus servicios y productos debe estar orientada hacia la satisfacción de las expectativas de nuestros clientes, como elemento diferenciador y fundamental que asegura el éxito en la “venta al por mayor de fitosanitarios, fertilizantes y productos auxiliares para uso agrícola”. Pretendemos seguir avanzando para llevar nuestro espíritu de vanguardia y calidad para que de esta forma cada vez más empresas puedan disfrutar de todos nuestros productos y servicios, haciendo de Grupo Agrosana, una empresa de referencia en el mercado nacional. A fin de cumplir con esta política, Grupo Agrosana ha establecido un sistema de gestión de la calidad conforme a los requisitos de la norma UNE-EN-ISO-9001:2015, cuyas estipulaciones son de obligado cumplimiento. Agrosana, 2015.
       
             .col-md-8.col-lg-5
               figure
@@ -71,7 +71,7 @@
           
           .row(numero="5" titulo="Valores").justify-content-center.align-items-center
             .col-md-12.col-lg-7.mb-lg-4.mb-3
-              p.mb-0 Aquí se establecen los principios por medio de los cuales se rigen las personas que hacen parte del proyecto productivo, están dirigidos al cumplimiento de los objetivos y planes. Ejemplo, la confianza que se genera seguridad entre las personas y frente a otros, respecto de nuestra idoneidad, competencia y credibilidad para lograr la transformación sostenible del sector agropecuario. Agrosavia, 2021.
+              p.mb-0 Aquí se establecen los principios por medio de los cuales se rigen las personas que hacen parte del proyecto productivo, están dirigidos al cumplimiento de los objetivos y planes. Ejemplo, la confianza que genera seguridad entre las personas y frente a otros, respecto de nuestra idoneidad, competencia y credibilidad para lograr la transformación sostenible del sector agropecuario. Agrosavia, 2021.
       
             .col-md-8.col-lg-5
               figure
@@ -82,7 +82,7 @@
 
 
     .row.align-items-center.justify-content-center
-      .col-md-12.col-lg-10
+      .col-md-12.col-lg-12
         #t_3_2.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 3.2 Análisis DOFA
 
@@ -114,7 +114,7 @@
     #t_3_3.titulo-segundo.color-acento-contenido
       .h2(data-aos="fade-right") 3.3 Organigrama
 
-    p.mb-3 Consiste en la elaboración de un cuadro de jerarquía en el que se escriben los cargos que se identifican dentro del proyecto, para su elaboración debe identificarse la cadena de mando, las áreas están presentes, identificar las funciones que se desarrollan en cada una de las áreas y sus relaciones jerárquicas.
+    p.mb-3 Consiste en la elaboración de un cuadro de jerarquía en el que se escriben los cargos que se identifican dentro del proyecto, para su elaboración debe identificarse la cadena de mando, qué áreas están presentes, identificar las funciones que se desarrollan en cada una de las áreas y sus relaciones jerárquicas.
     p.mb-5 Para la elaboración del organigrama del proyecto se pueden utilizar los siguientes pasos:
   
 
@@ -131,7 +131,7 @@
     Separador
     
     .row.align-items-center.justify-content-center.mb-5
-      .col-md-12.col-lg-10
+      .col-md-12.col-lg-12
         #t_3_4.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 3.4 Aspecto legal
 
@@ -139,7 +139,7 @@
           .col-lg-4.mb-5.mb-lg-0(data-aos="fade-right")
             img.mx-auto(src='@/assets/curso/tema3/img_27.png'  alt='')
           .col-lg-8.mb-5.mb-lg-0(data-aos="fade-left")   
-            p.mb-0 En la formulación de proyectos agropecuarios el aspecto legal es de gran relevancia debido a que muchas de las actividades que realizamos en el campo están reguladas por la constitución política de Colombia, por el Ministerio de Agricultura y Medio Ambiente (MADR) por la Agencia de Desarrollo Rural (ADR) y por el Instituto Colombiano Agropecuario (ICA); esta última entidad es la encargada de velar por la sanidad de los productos en el país para su exportación e importación. No debe perder de vista la legislación reciente Sistema Nacional de Innovación Agropecuaria (SNIA) la cual fue vista en el componente formativo 1: diagnóstico de la situación problémica en la población, organización o empresa agropecuaria rural.
+            p.mb-0 En la formulación de proyectos agropecuarios el aspecto legal es de gran relevancia debido a que muchas de las actividades que realizamos en el campo están reguladas por la Constitución Política de Colombia, por el Ministerio de Agricultura y Medio Rural (MADR) por la Agencia de Desarrollo Rural (ADR) y por el Instituto Colombiano Agropecuario (ICA); esta última entidad es la encargada de velar por la sanidad de los productos en el país para su exportación e importación. No debe perder de vista la legislación reciente Sistema Nacional de Innovación Agropecuaria (SNIA) la cual fue vista en el componente formativo 1: diagnóstico de la situación problémica en la población, organización o empresa agropecuaria rural.
               
     .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
       //- Subtitulo
@@ -150,7 +150,7 @@
             
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-7.mb-3(data-aos="fade-left") 
-        p.mb-3 Todas las explotaciones agropecuarias del país estén o no formalizadas como empresas están en la obligación de cumplir con una normatividad mínima en aspectos técnicos de sanidad vegetal, animal y agroindustrial; para esto el ICA tiene como misión, “trabajar por la sanidad agropecuaria y la inocuidad agroalimentaria del campo Colombiano”. 
+        p.mb-3 Todas las explotaciones agropecuarias del país estén o no formalizadas como empresas están en la obligación de cumplir con una normatividad mínima en aspectos técnicos de sanidad vegetal, animal y agroindustrial; para esto el ICA tiene como misión, “trabajar por la sanidad agropecuaria y la inocuidad agroalimentaria del campo colombiano”. 
         
         .cajon.bg-05.p-4.ps-5.bg_18.mb-5.mb-lg-0
           .row
@@ -180,7 +180,7 @@
               td Por la cual se establecen los requisitos sanitarios y de inocuidad para obtener la certificación en Buenas Prácticas Ganaderas (BPG) en la producción primaria de ovinos y caprinos destinados al sacrificio para consumo humano.
             tr 
               td Resolución ICA 448 de 2016.
-              td Por medio de las cuales se establecen los requisitos para el registro ante el ICA de los predios de vegetales para exportación en fresco, el registro de exportadores y el registro de las plantas empacadoras de las plantas para exportación en fresco.
+              td Por medio de la cual se establecen los requisitos para el registro ante el ICA de los predios de vegetales para exportación en fresco, el registro de exportadores y el registro de las plantas empacadoras de las plantas para exportación en fresco.
             tr 
               td Decreto 616 de 2007.
               td Por el cual se establece el reglamento técnico sobre los requisitos que debe cumplir la leche para el consumo humano que se obtenga, procese, envase, transporte, comercialice, expenda, importe o exporte en el país.
@@ -195,7 +195,7 @@
               td Por el cual se dictan disposiciones sobre la comercialización, transporte, sacrificio de ganado bovino y bufalino y expendio de carne en el territorio nacional.
             tr 
               td Decreto 616 de 2006.
-              td Por el cual se expide el reglamento técnico sobre los requisitos que debe cumplir la leche para el consumo humano que se obtenga, procese, envase, transporte, comercializa, expenda, importe o exporte en el país.
+              td Por el cual se expide el reglamento técnico sobre los requisitos que debe cumplir la leche para el consumo humano que se obtenga, procese, envase, transporte, comercialice, expenda, importe o exporte en el país.
             tr 
               td Decreto 1355 de 2001.
               td Por el cual se adoptan medidas transitorias sobre las exportaciones de animales vivos de la especie bovina.
@@ -210,7 +210,7 @@
               td Por la cual se determina el valor promedio nacional de los costos de establecimiento y mantenimiento por hectárea de bosque plantado, se fija la cuantía máxima porcentual que se reconocerá por concepto de certificado de incentivo forestal y se fija el Incentivo por árbol, para el año 2010.
             tr 
               td Resolución 36 de 2009.
-              td Por la cual se reglamentan para el año 2009 los contingentes de exportación de ganado en pie de la especie bovina. (publicada diario oficial 47262 de 2009).
+              td Por la cual se reglamentan para el año 2009 los contingentes de exportación de ganado en pie de la especie bovina. (Publicada en el diario oficial 47262 de 2009).
             tr 
               td Resolución 1442 de 2008.
               td Por la cual se establece el procedimiento para la expedición del dictamen técnico-ambiental al que alude la norma andina para el registro y control de plaguicidas químicos de uso agrícola, decisión 436, de la comisión de la comunidad andina, y se toman otras determinaciones.
@@ -251,18 +251,18 @@
 
       .col-lg-7.mb-5(data-aos="fade-left") 
         p.mb-3 En el estudio administrativo es preciso determinar el tipo de empresa que se va a crear, para poder realizar las actividades comerciales acordes a las necesidades para la ejecución del proyecto, como la compra de insumos, pago de impuestos, contratación, etc.
-        p.mb-3 En el territorio nacional existen dos formas jurídicas que son persona natural cuando la actividad comercial la ejerce una persona a nombre propio; persona jurídica fi­gura en la que el negocio es una sociedad que funciona con patrimonio independiente al de sus accionistas, siempre necesita de un representante legal quien actúa en nombre de la sociedad. (Cámara de comercio de Medellín, 2021, p. 3).
+        p.mb-3 En el territorio nacional existen dos formas jurídicas que son persona natural cuando la actividad comercial la ejerce una persona a nombre propio; persona jurídica fi­gura en la que el negocio es una sociedad que funciona con patrimonio independiente al de sus accionistas, siempre necesita de un representante legal quien actúa en nombre de la sociedad. (Cámara de Comercio de Medellín, 2021, p. 3).
         
         .cajon.bg-05.p-4.ps-5.bg_18.mb-4.mb-lg-0
           .row
             .col-md-2.mb-3.mb-lg-0
               img.w-auto.mx-auto(src='@/assets/curso/tema3/img_18.svg'  alt='')
             .col-md-10
-              p.mb-0 Cuando se registra como persona jurídica es importante conocer las características de cada una de ellas, según la Cámara de comercio de Medellín, existen los siguientes tipos de sociedades:
+              p.mb-0 Cuando se registra como persona jurídica es importante conocer las características de cada una de ellas, según la Cámara de Comercio de Medellín, existen los siguientes tipos de sociedades:
       
       .col-lg-10.mb-4(data-aos="zoom-in-down")
-        img.mb-5.mt-auto.ocultar(src="@/assets/curso/tema3/img_32.svg" alt="En la siguiente imagen se relaciona, según la cámara de comercio de Medellín, los siguientes tipos de sociedades: -Sociedad de comandita simple. -Sociedad en comandita por acciones. -Sociedad de responsabilidad limitada. -Sociedad anónima. -Sociedad por Acciones Simplificada (SAS). -Empresa unipersonal.")
-        img.mb-5.mt-auto.mostrar(src="@/assets/curso/tema3/img_33.svg" alt="En la siguiente imagen se relaciona, según la cámara de comercio de Medellín, los siguientes tipos de sociedades: -Sociedad de comandita simple. -Sociedad en comandita por acciones. -Sociedad de responsabilidad limitada. -Sociedad anónima. -Sociedad por Acciones Simplificada (SAS). -Empresa unipersonal.")
+        img.mb-5.mt-auto.ocultar(src="@/assets/curso/tema3/img_32.svg" alt="En la siguiente imagen se relaciona, según la Cámara de Comercio de Medellín, los siguientes tipos de sociedades: -Sociedad de comandita simple. -Sociedad en comandita por acciones. -Sociedad de responsabilidad limitada. -Sociedad anónima. -Sociedad por Acciones Simplificada (SAS). -Empresa unipersonal.")
+        img.mb-5.mt-auto.mostrar(src="@/assets/curso/tema3/img_33.svg" alt="En la siguiente imagen se relaciona, según la Cámara de Comercio de Medellín, los siguientes tipos de sociedades: -Sociedad de comandita simple. -Sociedad en comandita por acciones. -Sociedad de responsabilidad limitada. -Sociedad anónima. -Sociedad por Acciones Simplificada (SAS). -Empresa unipersonal.")
 
 
       .row.justify-content-center.mb-5
@@ -275,7 +275,7 @@
                 .row.mb-3.align-items-center
                   h4.mb-2 Recurso web
                   .col.mb-4.mb-sm-0
-                    p.mb-0 Superintendencia de sociedades. Cartillas y guías.
+                    p.mb-0 Superintendencia de Sociedades. Cartillas y guías.
                   .col-sm-auto.mb-4.mb-sm-0
                     a.boton.color-acento-botones(href="https://www.supersociedades.gov.co/web/asuntos-economicos-societarios/manuales-y-cartillas" target="_blank")
                       span Consultar sitio
@@ -286,7 +286,7 @@
                   .col.mb-4.mb-sm-0
                     p.mb-0.text-small Para ampliar la información puede consultar la guía de tipos societarios de la Cámara de Comercio de Medellín (2021).
                   .col-sm-auto.mb-4.mb-sm-0
-                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/GuiaTipoSocietario__FormatoPDF_ago20.pdf')" target="_blank")
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/GUIATIPOSOCIETARIO_FORMATOPDF_AGO20.pdf')" target="_blank")
                       span Descargar
                       i.fas.fa-download
 
@@ -304,7 +304,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema3/img_21.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Después de haber conocido los tipos de sociedades que existen en Colombia, es momento de conocer los tipos de contrato que existen junto con sus características, es por esto por lo que en la página del ministerio de trabajo se encuentra esta información para su conocimiento y manejo.
+            p.mb-0 Después de haber conocido los tipos de sociedades que existen en Colombia, es momento de conocer los tipos de contrato que existen junto con sus características, es por esto por lo que en la página del Ministerio de Trabajo se encuentra esta información para su conocimiento y manejo.
 
     .row.justify-content-center.mb-5
       .col-lg-9
@@ -339,7 +339,7 @@
                 .col.mb-4.mb-sm-0
                   p.mb-0.text-small Documento SENA.
                 .col-sm-auto.mb-4.mb-sm-0
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo 4_Documento SENA el contrato de trabajo.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/ANEXO_4_DOCUMENTO_SENA_EL_CONTRATO_DE_TRABAJO.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-pdf
 
@@ -355,7 +355,7 @@
 
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-10.mb-3(data-aos="fade-left") 
-        p.mb-0 El sector agropecuario en Colombia está enmarcado por la informalidad en la contratación de trabajadores del sector rural, para mejorar las condiciones laborales el gobierno nacional bajo la dirección del ministerio de trabajo y protección social expide el decreto 2616 de 2013 que establece la cotización seguridad social para trabajadores que laboren menos de un mes; este decreto ayuda a mejorar condiciones laborales en términos de aporte a pensión, salud y riesgos laborales de trabajadores de campo, además ayuda a la empresa a cumplir con compromisos de responsabilidad social o políticas orientadas a mejorar las condiciones de vida de los habitantes del área de influencia.
+        p.mb-0 El sector agropecuario en Colombia está enmarcado por la informalidad en la contratación de trabajadores del sector rural, para mejorar las condiciones laborales el gobierno nacional bajo la dirección del Ministerio de Trabajo y protección social expide el decreto 2616 de 2013 que establece la cotización a seguridad social para trabajadores que laboren menos de un mes; este decreto ayuda a mejorar condiciones laborales en términos de aporte a pensión, salud y riesgos laborales de trabajadores de campo, además ayuda a la empresa a cumplir con compromisos de responsabilidad social o políticas orientadas a mejorar las condiciones de vida de los habitantes del área de influencia.
         
     .row.align-items-center.justify-content-center.mb-4
       .col-lg-10.mb-0(data-aos="fade-left") 

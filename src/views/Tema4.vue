@@ -12,7 +12,7 @@
         img.mt-3.mx-auto.img-responsive(src='@/assets/curso/tema4/img_5.png'  alt='')
       .col-lg-7.mb-3(data-aos="fade-left")         
         .cajon.bg-97.p-4.ps-5.mb-5.mb-lg-3
-          p.mb-0 En el estudio ambiental se deben tener en cuenta además de la legislación que es obligatoria para la producción de los productos agropecuarios, la normatividad que aplica al cuidado de los recursos naturales presenten el área del proyecto, el tratamiento o disposición de los residuos propios del proceso productivo y desechos provenientes de empaques de agroquímicos, de medicamentos veterinarios o empaques sobrantes.
+          p.mb-0 En el estudio ambiental se deben tener en cuenta además de la legislación que es obligatoria para la producción de los productos agropecuarios, la normatividad que aplica al cuidado de los recursos naturales presentes en el área del proyecto, el tratamiento o disposición de los residuos propios del proceso productivo y desechos provenientes de empaques de agroquímicos, de medicamentos veterinarios o empaques sobrantes.
         p.mb-0 Si el proyecto está destinado para la comercialización en el exterior y va a realizar la certificación en alguna norma como global GAP, debe conocer la reglamentación, exigencias y adecuaciones en el producto y al entorno del área de producción. La finalidad de este estudio es reducir al máximo los impactos negativos sobre el ambiente y crear planes de acción que conlleven implementar acciones tendientes a realizar procesos productivos cada vez más amigables con el medio ambiente.
 
     Separador
