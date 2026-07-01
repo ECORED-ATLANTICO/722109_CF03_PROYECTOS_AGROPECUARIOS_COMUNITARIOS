@@ -198,7 +198,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA3_722109_DU.pdf',
+        download: 'downloads/722109_CF04_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -300,66 +300,66 @@ export default {
     {
       termino: 'Actividades',
       significado:
-        'Corresponde al conjunto de acciones que comprometen recursos y tiempo, que es preciso realizar para alcanzar los objetivos propuestos en un proyecto. (Miranda, 2005).',
+        'corresponde al conjunto de acciones que comprometen recursos y tiempo, que es preciso realizar para alcanzar los objetivos propuestos en un proyecto. (Miranda, 2005).',
     },
     {
       termino: 'Activo',
       significado:
-        'Representa los bienes y derechos que posee una empresa, tales como dinero, edificios, maquinaria, cuentas por cobrar, inversiones en papeles de mercado, valorizaciones, inventarios, etc. (Miranda, 2005).',
+        'representa los bienes y derechos que posee una empresa, tales como dinero, edificios, maquinaria, cuentas por cobrar, inversiones en papeles de mercado, valorizaciones, inventarios, etc. (Miranda, 2005).',
     },
     {
       termino: 'Administración estratégica',
       significado:
-        "En resumen la 'planeación estratégica' consiste en organizar de una manera disciplinada y sistemática, las tareas que la administración debe ejecutar para conducir a la organización hacia un futuro estable. Queda claro entonces que el fin de la planeación estratégica, es definir los objetivos a largo plazo de la empresa y diseñar los mecanismos para lograrlos; por lo tanto podemos afirmar que la planeación estratégica no pretende predecir el futuro, sino adoptar decisiones con impacto de futuro; tampoco trata de eliminar los riesgos, su finalidad es asegurar que se tomen los riesgos correctos en el momento oportuno. (Miranda, 2005).",
+        'en resumen, la ‘planeación estratégica’ consiste en organizar de una manera disciplinada y sistemática, las tareas que la administración debe ejecutar para conducir a la organización hacia un futuro estable. Queda claro entonces que el fin de la planeación estratégica, es definir los objetivos a largo plazo de la empresa y diseñar los mecanismos para lograrlos; por lo tanto, podemos afirmar que la planeación estratégica no pretende predecir el futuro, sino adoptar decisiones con impacto de futuro; tampoco trata de eliminar los riesgos, su finalidad es asegurar que se tomen los riesgos correctos en el momento oportuno. (Miranda, 2005).',
     },
     {
       termino: 'Alternativas',
       significado:
-        'Posibilidad de elegir entre opciones o soluciones diferentes. (Nuño, 2012).',
+        'posibilidad de elegir entre opciones o soluciones diferentes. (Nuño, 2012).',
     },
     {
       termino: 'Análisis financiero',
       significado:
-        'Es la presentación en forma procesada de la información de los estados financieros de una empresa y que sirve para la toma de decisiones económicas, tales como nuevas inversiones, fusiones, concesión de crédito, etc. (Miranda, 2005).',
+        'es la presentación en forma procesada de la información de los estados financieros de una empresa y que sirve para la toma de decisiones económicas, tales como nuevas inversiones, fusiones, concesión de crédito, etc. (Miranda, 2005).',
     },
     {
       termino: 'Área de influencia',
       significado:
-        'Son aquellos territorios (nacional, regional, departamental, local, zonal) que serán afectados directa o indirectamente por el proyecto. (Miranda, 2005).',
+        'son aquellos territorios (nacional, regional, departamental, local, zonal) que serán afectados directa o indirectamente por el proyecto. (Miranda, 2005).',
     },
     {
       termino: 'Balance',
       significado:
-        'Demostrativo contable de la situación económica y financiera de una empresa, en un momento determinado. (Miranda, 2005).',
+        'demostrativo contable de la situación económica y financiera de una empresa, en un momento determinado. (Miranda, 2005).',
     },
     {
       termino: 'Beneficiario',
       significado:
-        'Persona o grupo de personas que reciben los beneficios de un proyecto de inversión. Persona a la cual se transfiere un activo financiero o a favor de quien se emite un título o un contrato de seguro. (Miranda, 2005).',
+        'persona o grupo de personas que reciben los beneficios de un proyecto de inversión. Persona a la cual se transfiere un activo financiero o a favor de quien se emite un título o un contrato de seguro. (Miranda, 2005).',
     },
     {
       termino: 'Capacidad diseñada',
       significado:
-        'Corresponde a la capacidad técnica máxima tolerable de producción o prestación de servicio, y puede eventualmente superar a la capacidad instalada, lo que significa que en situaciones de excepción se puede trabajar con sobrecarga. (Miranda, 2005).',
+        'corresponde a la capacidad técnica máxima tolerable de producción o prestación de servicio, y puede eventualmente superar a la capacidad instalada, lo que significa que en situaciones de excepción se puede trabajar con sobrecarga. (Miranda, 2005).',
     },
     {
       termino: 'Ciclo del proyecto',
       significado:
-        'Hace referencia a las etapas de preinversión (identificación, formulación y evaluación), negociación, ejecución, operación y la evaluación ex-<em>post</em>. (Miranda, 2005).',
+        'hace referencia a las etapas de preinversión (identificación, formulación y evaluación), negociación, ejecución, operación y la evaluación ex - <em>post</em>.',
     },
     {
       termino: 'Debitar',
-      significado: 'Retirar fondos de una cuenta (Miranda, 2005).',
+      significado: 'retirar fondos de una cuenta. (Miranda, 2005).',
     },
     {
       termino: 'Dinero',
       significado:
-        'Instrumento de cambio representado en papel o moneda, que cumple cuatro funciones: medio de cambio; medida de valor; patrón de pago; unidad de cuenta. Su característica esencial es ser medio de pago generalmente aceptado a cambio de bienes y servicios y en la cancelación de deudas. (Miranda, 2005).',
+        'instrumento de cambio representado en papel o moneda, que cumple cuatro funciones: medio de cambio; medida de valor; patrón de pago; unidad de cuenta. Su característica esencial es ser medio de pago generalmente aceptado a cambio de bienes y servicios y en la cancelación de deudas. (Miranda, 2005).',
     },
     {
       termino: 'Sinergia',
       significado:
-        'Acción combinada de dos o más agentes que resulta mayor que la suma de las acciones individuales. (Miranda, 2005).',
+        'acción combinada de dos o más agentes que resulta mayor que la suma de las acciones individuales. (Miranda, 2005).',
     },
   ],
   referencias: [
@@ -373,7 +373,7 @@ export default {
     },
     {
       referencia:
-        'Cámara de Comercio de Medellín. (2021). <em>Guías de tipos societarios.</em>',
+        'Cámara de Comercio de Medellín. (2021). <em>Guía de tipos societarios.</em>',
       link:
         'https://www.camaramedellin.com.co/Portals/0/Documentos/Guias-Mercantil/NuevaGuiaTipoSocietario__2022_002.pdf',
     },
@@ -385,11 +385,11 @@ export default {
     },
     {
       referencia:
-        'Enciclopedia Económica (2021). <em>Mercadeo. Funciones del Mercado.</em>',
+        'Enciclopedia Económica (2025). <em>Mercado: Definición, tipos, participantes y ejemplos.</em>',
       link: 'https://economipedia.com/definiciones/mercado.html',
     },
     {
-      referencia: 'FAO. (2018). <em>Análisis FODA.</em>',
+      referencia: 'FAO. (2018). <em>Análisis de FODA.</em>',
       link: 'http://www.fao.org/3/CA1923ES/ca1923es.pdf',
     },
     {
@@ -427,13 +427,19 @@ export default {
     },
     {
       referencia:
+        'Ministerio de Trabajo y Protección Social. (2017). <em>Información y Orientación laboral para la población colombiana en situación de retorno.</em>',
+      link:
+        'https://www.mintrabajo.gov.co/documents/20147/59036289/CARTILLA+EMPLEO+RETORNO+op+3+completo+baja+11-10-2017.pdf',
+    },
+    {
+      referencia:
         'Miranda, M.J. (1999). <em>Gestión de proyectos.</em> Cuarta Edición. MM Editores.',
       link:
         'https://www.academia.edu/17688636/Gesti%C3%B3n_de_Proyectos_Juan_Jose_Miranda_Miranda',
     },
     {
       referencia:
-        'Nuño, L.P. (2012). <em>Administración de Pequeñas Empresas.</em> Red Tercer Milenio.',
+        'Nuño, L.P. (2012). <em>Administración de pequeñas empresas.</em> Red Tercer Milenio.',
       link:
         'https://www.academia.edu/36532308/Administraci%C3%B3n_de_peque%C3%B1as_empresas_PIERINA_DEL_REFUGIO_NU%C3%91O_DE_LEON',
     },
@@ -451,19 +457,13 @@ export default {
     },
     {
       referencia:
-        'Universidad Autónoma de México. <em>Estudio Técnico.</em> Facultad de Economía. (pp. 53-93).',
-      link: 'http://www.economia.unam.mx/secss/docs/tesisfe/GomezAM/cap2a.pdf',
-    },
-    {
-      referencia:
         'Unidad de Planeación Minero Energética UPME. (2021). <em>Normatividad Ambiental y Sanitaria.</em>',
       link: '',
     },
     {
       referencia:
-        'Ministerio de Trabajo y Protección Social. (2017). <em>Información y Orientación laboral para la población colombiana en situación de retorno.</em>',
-      link:
-        'https://www.mintrabajo.gov.co/documents/20147/59036289/CARTILLA+EMPLEO+RETORNO+op+3+completo+baja+11-10-2017.pdf',
+        'Universidad Nacional Autónoma de México. <em>Estudio Técnico.</em> Facultad de Economía. (pp. 53-93).',
+      link: 'http://www.economia.unam.mx/secss/docs/tesisfe/GomezAM/cap2a.pdf',
     },
   ],
   creditos: [
@@ -473,7 +473,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional 06. Responsable del Ecosistema de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -523,7 +523,7 @@ export default {
           nombre: 'Fabian Cuartas Donado',
           cargo: 'Evaluador instruccional',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -532,7 +532,7 @@ export default {
       autores: [
         {
           nombre: 'Carmen Alicia Martínez Torres',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñadora web',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
@@ -542,7 +542,7 @@ export default {
         },
         {
           nombre: 'Carmen Alicia Martínez Torres',
-          cargo: 'Animador y productor audiovisual',
+          cargo: 'Animadora y productora audiovisual',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
@@ -557,24 +557,23 @@ export default {
       autores: [
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Jonathan Adié Villafañe',
-          cargo: 'Validador y vinculador de recursos digitales',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos digitales',
-          centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],
     },

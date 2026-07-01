@@ -145,7 +145,7 @@
       //- Subtitulo
       .align-items-center.justify-content-star.mb-2
         .div(data-aos="fade-left")
-          h3.subtitle.position-relative Normatividad agropecuaria
+          h3#t_3_4_1.subtitle.position-relative Normatividad agropecuaria
             img.image(src='@/assets/curso/tema1/img_62.svg', alt='Imagen decorativa')
             
     .row.align-items-center.justify-content-center.mb-2
@@ -242,7 +242,7 @@
       //- Subtitulo
       .align-items-center.justify-content-star.mb-2
         .div(data-aos="fade-left")
-          h3.subtitle.position-relative Tipos de empresas en Colombia
+          h3#t_3_4_2.subtitle.position-relative Tipos de empresas en Colombia
             img.image(src='@/assets/curso/tema1/img_62.svg', alt='Imagen decorativa')
 
     .row.align-items-center.justify-content-center.mb-2
@@ -294,7 +294,7 @@
       //- Subtitulo
       .align-items-center.justify-content-star.mb-2
         .div(data-aos="fade-left")
-          h3.subtitle.position-relative Contratación
+          h3#t_3_4_3.subtitle.position-relative Contratación
             img.image(src='@/assets/curso/tema1/img_62.svg', alt='Imagen decorativa')
 
     .row.justify-content-center.align-items-center.mb-2
@@ -339,7 +339,7 @@
                 .col.mb-4.mb-sm-0
                   p.mb-0.text-small Documento SENA.
                 .col-sm-auto.mb-4.mb-sm-0
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/ANEXO_4_DOCUMENTO_SENA_EL_CONTRATO_DE_TRABAJO.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo1_Documento_SENA_el_contrato_de_trabajo.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-pdf
 

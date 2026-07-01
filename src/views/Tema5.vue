@@ -61,7 +61,7 @@
                     h4.mb-1 Tabla 2.
                     p.mb-0 Tabla de costos fijos, proyecto cacao asociado a plátano.
                   .col-sm-auto
-                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/ANEXO_5_TABLA_2_COSTOS_FIJOS.xlsx')" target="_blank")
+                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo2_Tabla_2_Costos_fijos.xlsx')" target="_blank")
                       span Consultar tabla
                       i.fas.fa-file-excel
                       
@@ -86,7 +86,7 @@
                       h4.mb-1 Tabla 3.
                       p.mb-0 Tabla de costos variables, proyecto cacao asociado a plátano.
                     .col-sm-auto
-                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/ANEXO_6_TABLA_3_COSTOS_VARIABLES.xlsx')" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo3_Tabla_3_Costos_variables.xlsx')" target="_blank")
                         span Consultar tabla
                         i.fas.fa-file-excel
                         
