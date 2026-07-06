@@ -32,7 +32,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema3/img_3.png')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 El propósito de la planeación estratégica es identificar hacia dónde desea que vaya su empresa, usando las tendencias del mercado, sociales y económicas; luego, comienza el proceso para generar la misión, visión, objetivos, políticas, estrategias, valores, etc. A continuación se relaciona una breve descripción de cada uno:
+            p.mb-0 El propósito de la planeación estratégica es identificar hacia dónde desea que vaya su empresa, usando las tendencias del mercado, sociales y económicas; luego, comienza el proceso para generar la misión, visión, objetivos, políticas, estrategias, valores, etc. A continuación, se relaciona una breve descripción de cada uno:
     
     .row.justify-content-center.align-items-center.mb-2
       .col-md-12
@@ -251,7 +251,7 @@
 
       .col-lg-7.mb-5(data-aos="fade-left") 
         p.mb-3 En el estudio administrativo es preciso determinar el tipo de empresa que se va a crear, para poder realizar las actividades comerciales acordes a las necesidades para la ejecución del proyecto, como la compra de insumos, pago de impuestos, contratación, etc.
-        p.mb-3 En el territorio nacional existen dos formas jurídicas que son persona natural cuando la actividad comercial la ejerce una persona a nombre propio; persona jurídica fi­gura en la que el negocio es una sociedad que funciona con patrimonio independiente al de sus accionistas, siempre necesita de un representante legal quien actúa en nombre de la sociedad. (Cámara de Comercio de Medellín, 2021, p. 3).
+        p.mb-3 En el territorio nacional existen dos formas jurídicas que son persona natural cuando la actividad comercial la ejerce una persona a nombre propio; persona jurídica figura en la que el negocio es una sociedad que funciona con patrimonio independiente al de sus accionistas, siempre necesita de un representante legal quien actúa en nombre de la sociedad. (Cámara de Comercio de Medellín, 2021, p. 3).
         
         .cajon.bg-05.p-4.ps-5.bg_18.mb-4.mb-lg-0
           .row
@@ -284,11 +284,11 @@
                 .row.align-items-center
                   h4.mb-2 Guía tipo societario
                   .col.mb-4.mb-sm-0
-                    p.mb-0.text-small Para ampliar la información puede consultar la guía de tipos societarios de la Cámara de Comercio de Medellín (2021).
+                    p.mb-0.text-small Para ampliar la información puede consultar la guía de tipos societarios de la Cámara de Comercio de Medellín en el siguiente enlace:
                   .col-sm-auto.mb-4.mb-sm-0
-                    a.boton.color-acento-botones(:href="obtenerLink('/downloads/GUIATIPOSOCIETARIO_FORMATOPDF_AGO20.pdf')" target="_blank")
-                      span Descargar
-                      i.fas.fa-download
+                    a.boton.color-acento-botones(href="https://www.camaramedellin.com.co/Portals/0/Documentos/Guias-Mercantil/NuevaGuiaTipoSocietario__2022_002.pdf" target="_blank")
+                      span Consultar sitio
+                      i.fas.fa-external-link-alt
 
     .row.align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
       //- Subtitulo
@@ -375,7 +375,7 @@
                     .col.mb-4.mb-sm-0
                       p.mb-0.text-small Decreto 2616 del 20 de noviembre de 2013.
                     .col-sm-auto.mb-4.mb-sm-0
-                      a.boton.color-acento-botones(href="http://wsp.presidencia.gov.co/Normativa/Decretos/2013/Documents/NOVIEMBRE/20/DECRETO%202616%20DEL%2020%20DE%20NOVIEMBRE%20DE%202013.pdf" target="_blank")
+                      a.boton.color-acento-botones(href="https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=65326 " target="_blank")
                         span Descargar
                         i.fas.fa-file-pdf
 

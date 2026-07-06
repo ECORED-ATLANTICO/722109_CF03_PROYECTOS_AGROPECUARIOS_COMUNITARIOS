@@ -106,7 +106,7 @@
             .col
               .row.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Buscar liderar el mercado. (enciclopedia económica, 2021).
+                  p.mb-0 Buscar liderar el mercado. (Enciclopedia económica, 2021).
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #B19540;") H
 
     p.mb-4 De manera alterna se deben identificar variables como: el precio, origen, calidad, disponibilidad en el mercado local o regional de los insumos que son necesarios para la producción del bien que se pretende producir.
@@ -211,7 +211,7 @@
               | <b> Estructuras reproductivas: </b>  flores ornamentales, coliflor y brócoli.
             li 
               i.fas.fa-angle-right
-              | <b> Estructuras subterráneas: </b> raíces (zanahoria y remolacha, entre otros), tubérculos (papa), rizomas (jengibre). (Puentes, 2011, p. 46). Adaptación por el SENA (2021).
+              | <b> Estructuras subterráneas: </b> raíces (zanahoria y remolacha, entre otros), tubérculos (papa), rizomas (jengibre). (Puentes, 2011, p. 46). Adaptación del SENA, (2021).
 
     .row.ordenar_tarjeta.align-items-center.justify-content-center.mb-4.ps-2(data-aos="zoom-in-down")
       .col-lg-10
@@ -238,7 +238,7 @@
                   | <b> Ganado lechero.</b>
                 li 
                   i.fas.fa-angle-right
-                  | <b> Ganado para carne. </b> (Puentes, 2011, p. 46). Adaptación por el SENA (2021).
+                  | <b> Ganado para carne. </b> (Puentes, 2011, p. 46). Adaptación realizada por el SENA (2021).
           
           .col-md-5.mb-3.ordenar_tarjeta 
             img.mx-auto.img-responsive(src='@/assets/curso/tema1/img_68.png'  alt='')
@@ -341,7 +341,7 @@
       .col-lg-5.mb-3(data-aos="fade-right")
         img.mt-3.mx-auto.img-responsive(src='@/assets/curso/tema1/img_69.png'  alt='')
       .col-lg-7.mb-3(data-aos="fade-left") 
-        p.mb-3 Cuando se realiza el estudio de la demanda se hace una labor de búsqueda de información la cual debe ser sistemática, enfocada en registrar eventos como cantidad de producto que puede llegar a ser vendido, cantidad de producto que una comunidad puede llegar a adquirir, analizar los precios, identificar los gustos o preferencias y la capacidad de compra de los consumidores.
+        p.mb-3 Cuando se realiza el estudio de la demanda se hace una labor de búsqueda de información la cual debe ser sistemática, enfocada en registrar variables como cantidad de producto que puede llegar a ser vendido, cantidad de producto que una comunidad puede llegar a adquirir, analizar los precios, identificar los gustos o preferencias y la capacidad de compra de los consumidores.
         
         .cajon.bg-04.p-4.ps-5.bg_18.mb-4.mb-lg-0
           .row
@@ -362,7 +362,7 @@
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-8.mb-3(data-aos="fade-left") 
         .cajon.bg-05.p-4.ps-5.mb-4.mb-lg-0
-          p.mb-0 En el desarrollo del análisis de la demanda, se debe determinar la población objetivo, qué es el grupo de personas a las cuales se les desea vender el producto, esta población debe caracterizarse teniendo en cuenta valores como edad, sexo, nivel escolar, estado civil, tamaño de la población (número de personas), tasa de crecimiento; además se debe obtener información sobre nivel actual del ingreso y establecer la zona de influencia que es identificar en lo posible sobre un mapa la zona geográfica en la que se desea comercializar el producto objeto del proyecto; la información anterior también es conocida como área de mercado.
+          p.mb-0 En el desarrollo del análisis de la demanda, se debe determinar la población objetivo, que es el grupo de personas a las cuales se les desea vender el producto, esta población debe caracterizarse teniendo en cuenta valores como edad, sexo, nivel escolar, estado civil, tamaño de la población (número de personas), tasa de crecimiento; además se debe obtener información sobre nivel actual del ingreso y establecer la zona de influencia que es identificar en lo posible sobre un mapa la zona geográfica en la que se desea comercializar el producto objeto del proyecto; la información anterior también es conocida como área de mercado.
         
     .row.align-items-center.justify-content-center.mb-2
       .col-lg-7.mb-3(data-aos="fade-right") 
@@ -464,7 +464,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 Características de los compradores o usuarios (edad, sexo, raza, nivel de ingresos, tamaño de la familia, etc.) (Miranda, 2005, p. 99).
+                  p.mb-0 Características de los compradores o usuarios (edad, sexo, raza, nivel de ingresos, tamaño de la familia, etc.). (Miranda, 2005, p. 99).
           h2.mb-0.position-absolute(style="bottom: 5px; right: 15px; color: #B19540;") H
       
     //- .row.justify-content-center.mb-0
@@ -620,7 +620,7 @@
       .col-md-10.mb-4
         .titulo-sexto.color-acento-contenido.mb-0
             h5 Figura 1. 
-            span Ciclo de la vida de un producto 
+            span Ciclo de vida de un producto 
 
         figure
           img.d-none.d-lg-block.d-md-block(src='@/assets/curso/tema1/img_74.svg', alt='En la imagen se muestra el ciclo de vida del producto, introducción, crecimiento, madurez y declive. Así mismo determina las ventas, el tiempo y los beneficios.')
@@ -644,7 +644,7 @@
         figure
           img.d-none.d-lg-block.d-md-block(src='@/assets/curso/tema1/img_76.svg', alt='La estrategia según el precio y la calidad, se determina en calidad, ya sea baja y alta, en precio, ya sea alto y bajo.')
           img.d-block.d-sm-block.d-lg-none.d-md-none(src='@/assets/curso/tema1/img_77.svg', alt='La estrategia según el precio y la calidad, se determina en calidad, ya sea baja y alta, en precio, ya sea alto y bajo.')
-          figcaption Nota. Tomado de Sanchez, L.J. (2021).
+          figcaption Nota. Tomado de Sánchez, L. J. (2021).
       
       .col-lg-10.mb-3.d-none.d-lg-block
         .tarjeta-avatar-b.mb-3

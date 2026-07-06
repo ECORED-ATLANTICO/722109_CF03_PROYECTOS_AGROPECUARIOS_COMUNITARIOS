@@ -39,7 +39,7 @@
     .row
       .col-12.col-lg-10.mx-auto
         p.mb-5 
-          b Para la elaboración de la tabla de costos en la herramienta ofimática excel debe tener en cuenta la siguiente clasificación de costos:
+          b Para la elaboración de la tabla de costos en la herramienta ofimática Excel debe tener en cuenta la siguiente clasificación de costos:
 
         .align-items-center.justify-content-star.mb-1.ps-2(data-aos="zoom-in-down")
           //- Subtitulo
@@ -48,7 +48,7 @@
               h3.subtitle.position-relative Costos fijos
                 img.image(src='@/assets/curso/tema1/img_62.svg', alt='Imagen decorativa')
           
-        p.mb-4 Arriendo, sueldos administrativos, servicios públicos, amortizaciones, vigilancia, seguros, etc. Se mantienen más o menos constantes y generalmente no cambian en proporción directa con las ventas o unidades producidas. Jiménez, 2010, p. 25.
+        p.mb-4 Arriendo, sueldos administrativos, servicios públicos, amortizaciones, vigilancia, seguros, etc. Se mantienen más o menos constantes y generalmente no cambian en proporción directa con las ventas o unidades producidas.
                     
         .row.justify-content-center.mb-5
           .col-12
@@ -59,7 +59,7 @@
                 .row.align-items-center.justify-content-center.p-4
                   .col.mb-3.mb-sm-0
                     h4.mb-1 Tabla 2.
-                    p.mb-0 Tabla de costos fijos, proyecto cacao asociado a plátano.
+                    p.mb-0 Para ampliar la información acerca de costos fijos de proyecto asociado a sistema agroforestal de cacao, plátano y maderable, se invita a que acceda al material.
                   .col-sm-auto
                     a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo2_Tabla_2_Costos_fijos.xlsx')" target="_blank")
                       span Consultar tabla
@@ -84,7 +84,7 @@
                   .row.align-items-center.justify-content-center.p-4
                     .col.mb-3.mb-sm-0
                       h4.mb-1 Tabla 3.
-                      p.mb-0 Tabla de costos variables, proyecto cacao asociado a plátano.
+                      p.mb-0 Para ampliar la información acerca de costos variables y análisis de costos e ingresos del proyecto cacao asociado a plátano, se invita a que acceda al material.
                     .col-sm-auto
                       a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo3_Tabla_3_Costos_variables.xlsx')" target="_blank")
                         span Consultar tabla
@@ -253,7 +253,7 @@
         LineaTiempoD.color-acento-contenido.mb-4
           .row(numero="1" titulo="Ingresos").justify-content-center.align-items-center
             .col-md-12.col-lg-7.mb-lg-4.mb-md-2
-              p Es el dinero percibido por la venta del producto o productos que deben ser registrados en el año que se efectúa la venta; se debe anotar que los ingresos registrados en el flujo de fondos del proyecto deben incluir, tanto los ingresos operativos (por venta del producto o prestación del servicio) como los ingresos financieros (por inversión de reserva, por ejemplo). Mendieta, 2005. p. 162.
+              p Es el dinero percibido por la venta del producto o productos que deben ser registrados en el año que se efectúa la venta; se debe anotar que los ingresos registrados en el flujo de fondos del proyecto deben incluir, tanto los ingresos operativos (por venta del producto o prestación del servicio) como los ingresos financieros (por inversión de reserva, por ejemplo). Mendieta, 2005 p. 162.
       
             .col-md-8.col-lg-5
               figure

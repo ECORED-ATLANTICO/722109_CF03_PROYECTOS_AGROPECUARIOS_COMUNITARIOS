@@ -15,13 +15,13 @@
               :style="{'background-image': `url(${require('@/assets/curso/tema2/img_1.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 El estudio técnico es el momento en que el formulador de proyectos determina las condiciones en la que debe operar el sistema productivo, aquí se indica el tamaño de la explotación agropecuaria, qué área debe ser destinada para el cultivo o para el semoviente, cuanta área se destinó para la poscosecha o para realizar el faenado, localización de la explotación, etc.
+              p.mb-0 El estudio técnico es el momento en que el formulador de proyectos determina las condiciones en las que debe operar el sistema productivo, aquí se indica el tamaño de la explotación agropecuaria, qué área debe ser destinada para el cultivo o para el semoviente, cuánta área se destinó para la poscosecha o para realizar el faenado, localización de la explotación, etc.
       
       .row.align-items-center.justify-content-center.mb-2
         .col-md-12.col-lg-10
           .row.align-items-center.justify-content-center
             .col-lg-8.mb-3.mb-lg-0(data-aos="fade-left") 
-              p.mb-3 La importancia de este estudio se deriva de la posibilidad de llevar a cabo una valoración económica de las variables técnicas del proyecto que permitan una apreciación exacta o aproximada de los recursos necesarios para el proyecto; además de proporcionar información de utilidad al estudio económico financiero. Todo estudio técnico tiene como principal objetivo demostrar la viabilidad técnica del proyecto que justifique la alternativa técnica que mejor se adapte a los criterios de optimización. (Universidad Nacional Autónoma de México, s.f., p. 1). 
+              p.mb-3 La importancia de este estudio se deriva de la posibilidad de llevar a cabo una valoración económica de las variables técnicas del proyecto que permitan una apreciación exacta o aproximada de los recursos necesarios para el proyecto; además de proporcionar información de utilidad al estudio económico-financiero. Todo estudio técnico tiene como principal objetivo demostrar la viabilidad técnica del proyecto que justifique la alternativa técnica que mejor se adapte a los criterios de optimización. (Universidad Nacional Autónoma de México, s.f., p. 1). 
               .cajon.bg-05.p-4.ps-5.bg_18.mb-4.mb-lg-0
                 .row.align-items-center
                   .col-md-3.mb-4.mb-lg-0.mb-md-0
@@ -100,7 +100,7 @@
                   | Precio de la tierra. (Miranda, 2005, p. 133). 
                 li 
                   i.fas.fa-angle-right
-                  | Disponibilidad, costo y calidad (capacitada en la labor) de la mano de obra en la región, (Miranda, 2005, p. 133).
+                  | Disponibilidad, costo y calidad (capacitada en la labor) de la mano de obra en la región. (Miranda, 2005, p. 133).
         
     Separador
 

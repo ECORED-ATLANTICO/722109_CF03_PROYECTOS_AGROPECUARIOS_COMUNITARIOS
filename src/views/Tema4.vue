@@ -128,7 +128,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.mb-0 <b>Artículo 330. </b>Establece la administración autónoma de los territorios indígenas con ámbitos de aplicación en los usos del suelo y la preservación de los recursos naturales, entre otros. UPME, 2021.
+                  p.mb-0 <b>Artículo 330. </b>Establece la administración autónoma de los territorios indígenas con ámbitos de aplicación en los usos del suelo y la preservación de los recursos naturales, entre otros.
   
     .row.justify-content-center.mb-0
       .col-md-12.col-lg-10
@@ -141,7 +141,7 @@
                 h4.mb-1 Recurso web
                 p.mb-0 Normatividad ambiental y sanitaria. Unidad de Planeación Minero Energética (UPME)
               .col-sm-auto
-                a.boton.color-acento-botones(href="http://www.upme.gov.co/guia_ambiental/carbon/gestion/politica/normativ/normativ.htm#BM2_1_Normas_y_principios_ambientales_co" target="_blank")
+                a.boton.color-acento-botones(href="https://docs.upme.gov.co/Normatividad/0589_2004.pdf" target="_blank")
                   span Consultar sitio
                   i.fas.fa-file-pdf
 

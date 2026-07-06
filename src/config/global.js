@@ -452,8 +452,7 @@ export default {
     {
       referencia:
         'Servicio Nacional de Aprendizaje. (2014). <em>El Contrato de Trabajo.</em> SENA.',
-      link:
-        'https://normograma.sena.edu.co/docs/concepto_sena_2014-02-0010360_2014.htm',
+      link: '',
     },
     {
       referencia:
