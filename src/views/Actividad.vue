@@ -18,10 +18,10 @@ export default {
   data: () => ({
     cuestionario: {
       tema:
-        'Evaluación de conocimientos sobre la formulación de proyectos agropecuarios mediante la metodología de marco lógico.',
+        'Evaluación de conocimientos sobre los componentes de estudio para la formulación de proyectos agropecuarios.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> evaluar la capacidad del aprendiz para reconocer y aplicar los elementos técnicos y metodológicos del enfoque de marco lógico en la formulación de proyectos agropecuarios, considerando el análisis de problemáticas, la planificación de alternativas de solución y la estructuración de proyectos orientados al desarrollo rural.',
+        '<b>Objetivo:</b> Evaluar la comprensión y aplicación de los conceptos relacionados con los estudios de mercado, técnico, administrativo, ambiental y financiero en la formulación de proyectos agropecuarios, identificando los elementos que determinan la viabilidad y sostenibilidad de una iniciativa productiva de acuerdo con criterios técnicos, normativos y metodológicos.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -29,180 +29,405 @@ export default {
         {
           id: 1,
           texto:
-            '¿Cuál es el propósito principal de la metodología de marco lógico?',
+            '¿Cuál es el propósito principal del estudio de mercado en un proyecto agropecuario?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Elaborar únicamente presupuestos de proyectos.',
+              texto: 'Determinar la ubicación del proyecto.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Gestionar proyectos mediante un análisis estructurado de problemas y soluciones.',
+              texto: 'Analizar la viabilidad comercial del bien o servicio.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Realizar estudios financieros exclusivamente.',
+              texto: 'Calcular el flujo de caja.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Determinar costos de producción agrícola.',
+              texto: 'Definir el organigrama empresarial.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
         },
         {
           id: 2,
-          texto:
-            'El enfoque de marco lógico se caracteriza por ser una metodología:',
+          texto: 'La identificación del bien o servicio permite:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Empírica y no estructurada.',
+              texto: 'Establecer las fuentes de financiación.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Exclusivamente financiera.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: 'Sistémica, participativa y organizada.',
+              texto:
+                'Definir las características y beneficios de lo que se ofrecerá al mercado.',
               esCorrecta: true,
             },
             {
+              id: 'c',
+              texto: 'Determinar la estructura jurídica de la empresa.',
+              esCorrecta: false,
+            },
+            {
               id: 'd',
-              texto: 'Basada únicamente en información secundaria.',
+              texto: 'Identificar los impactos ambientales.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
         },
         {
           id: 3,
-          texto:
-            '¿Cuál de las siguientes fases hace parte de la metodología de marco lógico?',
+          texto: 'La demanda en un estudio de mercado se refiere a:',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Comercialización.',
+              texto: 'La cantidad de productos disponibles para la venta.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Ejecución financiera.',
+              texto: 'La capacidad productiva de la empresa.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Identificación del problema.',
+              texto:
+                'La cantidad de bienes o servicios que los consumidores están dispuestos a adquirir.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Auditoría contable.',
+              texto: 'El número de proveedores existentes.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
         },
         {
           id: 4,
-          texto:
-            'El análisis del contexto en torno a la problemática de la ruralidad permite:',
+          texto: 'El análisis de la oferta consiste en:',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Determinar únicamente los costos del proyecto.',
+              texto:
+                'Evaluar los competidores y los productos disponibles en el mercado.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Identificar los costos de producción.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Establecer el flujo de caja.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Definir el organigrama empresarial.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+        },
+        {
+          id: 5,
+          texto:
+            '¿Qué factor influye directamente en la determinación del precio de un producto agropecuario?',
+          imagen: require('@/assets/actividad/imagen5.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'La cantidad de trabajadores.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'La oferta, la demanda y los costos de producción.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'El organigrama de la empresa.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'La legislación ambiental.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+        },
+        {
+          id: 6,
+          texto: 'Una estrategia de mercadeo agrícola busca:',
+          imagen: require('@/assets/actividad/imagen6.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Diseñar acciones para posicionar y comercializar el producto.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Elaborar contratos laborales.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Determinar el tamaño de la empresa.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Gestionar licencias ambientales.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+        },
+        {
+          id: 7,
+          texto:
+            'En el estudio técnico, la localización del proyecto hace referencia a:',
+          imagen: require('@/assets/actividad/imagen7.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'La forma jurídica de la empresa.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Comprender las condiciones sociales, económicas y ambientales del territorio.',
+                'El lugar donde se desarrollarán las actividades productivas.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Elaborar los contratos del proyecto.',
+              texto: 'La estrategia comercial.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Definir exclusivamente los indicadores financieros.',
+              texto: 'La estructura organizacional.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
         },
         {
-          id: 5,
-          texto: 'La información secundaria corresponde a:',
+          id: 8,
+          texto: 'El tamaño de un proyecto agropecuario está relacionado con:',
+          imagen: require('@/assets/actividad/imagen8.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'La cantidad de leyes aplicables.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'El número de socios.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'El tipo de contrato utilizado.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'La capacidad de producción prevista.',
+              esCorrecta: true,
+            },
+          ],
+          mensaje_correcto:
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+        },
+        {
+          id: 9,
+          texto: 'La descripción del proceso productivo permite:',
+          imagen: require('@/assets/actividad/imagen9.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto:
+                'Identificar las etapas necesarias para obtener el producto o servicio.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Definir el flujo de caja.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Establecer la estructura jurídica.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Determinar los impuestos aplicables.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+        },
+        {
+          id: 10,
+          texto: 'El cronograma de actividades tiene como finalidad:',
+          imagen: require('@/assets/actividad/imagen10.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Organizar las tareas según tiempos y responsables.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Determinar el precio de venta.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Establecer los impuestos de la empresa.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Definir la demanda del mercado.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+        },
+        {
+          id: 11,
+          texto: 'La planeación estratégica permite:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Datos obtenidos mediante encuestas y entrevistas realizadas por el proyecto.',
-              esCorrecta: false,
+              texto: 'Definir la dirección y los objetivos de la organización.',
+              esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Información recolectada directamente en campo.',
+              texto: 'Calcular únicamente los costos de producción.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto:
-                'Información proveniente de documentos, estudios e investigaciones previas.',
-              esCorrecta: true,
+              texto: 'Elaborar el flujo de caja.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Opiniones informales de los productores.',
+              texto: 'Establecer la oferta del mercado.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
         },
         {
-          id: 6,
-          texto: 'El análisis de actores involucrados tiene como finalidad:',
+          id: 12,
+          texto: 'El análisis DOFA evalúa:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Determinar el presupuesto total del proyecto.',
+              texto: 'Costos, gastos e ingresos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Debilidades, oportunidades, fortalezas y amenazas.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Oferta, demanda, precio y promoción.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Riesgos ambientales y financieros.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto:
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+          mensaje_incorrecto:
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
+        },
+        {
+          id: 13,
+          texto: '¿Cuál es la función principal de un organigrama?',
+          imagen: require('@/assets/actividad/imagen3.png'),
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Determinar los precios del producto.',
               esCorrecta: false,
             },
             {
@@ -212,481 +437,248 @@ export default {
             },
             {
               id: 'c',
-              texto: 'Elaborar los cronogramas de obra.',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto:
-                'Identificar intereses, influencia y participación de los diferentes actores.',
-              esCorrecta: true,
-            },
-          ],
-          mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
-          mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
-        },
-        {
-          id: 7,
-          texto: 'El diagnóstico de la situación problémica busca:',
-          imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto:
-                'Identificar y comprender las causas y efectos de una problemática.',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Elaborar únicamente el presupuesto del proyecto.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: 'Contratar personal especializado.',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'Realizar auditorías financieras.',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
-          mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
-        },
-        {
-          id: 8,
-          texto:
-            '¿Cuál de las siguientes herramientas facilita la identificación de problemas a partir de información primaria?',
-          imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Balance general.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Estado de resultados.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: 'Inventario de maquinaria.',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'Encuestas y entrevistas.',
-              esCorrecta: true,
-            },
-          ],
-          mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
-          mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
-        },
-        {
-          id: 9,
-          texto: 'La matriz de Vester se utiliza para:',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Establecer indicadores financieros.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto:
-                'Priorizar problemas según sus relaciones de influencia y dependencia.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Elaborar presupuestos de inversión.',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'Diseñar estrategias de comercialización.',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
-          mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
-        },
-        {
-          id: 10,
-          texto:
-            'En la matriz de Vester, un problema altamente influyente sobre otros se considera:',
-          imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Pasivo.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Independiente.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: 'Crítico o activo.',
+              texto: 'Representar gráficamente la estructura organizacional.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Secundario.',
+              texto: 'Identificar los impactos ambientales.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
-        },
-        {
-          id: 11,
-          texto: 'El árbol de problemas permite representar:',
-          imagen: require('@/assets/actividad/imagen3.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'La estructura organizacional de una empresa.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Los recursos financieros disponibles.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto:
-                'Las relaciones causa-efecto de una situación problemática.',
-              esCorrecta: true,
-            },
-            {
-              id: 'd',
-              texto: 'Los costos operativos del proyecto.',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
-          mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
-        },
-        {
-          id: 12,
-          texto: 'En el árbol de problemas, las raíces representan:',
-          imagen: require('@/assets/actividad/imagen4.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'Los objetivos del proyecto.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto: 'Las actividades del proyecto.',
-              esCorrecta: false,
-            },
-            {
-              id: 'c',
-              texto: 'Las causas del problema central.',
-              esCorrecta: true,
-            },
-            {
-              id: 'd',
-              texto: 'Los indicadores de gestión.',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la agroecología y la evaluación ambiental de los sistemas agrícolas.',
-          mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la agroecología y la evaluación ambiental de los sistemas agrícolas.',
-        },
-        {
-          id: 13,
-          texto: 'El árbol de objetivos se construye a partir de:',
-          imagen: require('@/assets/actividad/imagen1.png'),
-          barajarRespuestas: true,
-          opciones: [
-            {
-              id: 'a',
-              texto: 'La eliminación de actividades.',
-              esCorrecta: false,
-            },
-            {
-              id: 'b',
-              texto:
-                'La transformación de problemas en situaciones positivas deseadas.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Los estados financieros.',
-              esCorrecta: false,
-            },
-            {
-              id: 'd',
-              texto: 'El análisis de mercado.',
-              esCorrecta: false,
-            },
-          ],
-          mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
-          mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
         },
         {
           id: 14,
-          texto: 'El análisis de alternativas permite:',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: 'El aspecto legal de un proyecto agropecuario busca:',
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Escoger la mejor opción para solucionar la problemática identificada.',
+              texto: 'Garantizar el cumplimiento de las normas aplicables.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Determinar únicamente los costos del proyecto.',
+              texto: 'Incrementar automáticamente la producción.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Elaborar informes financieros.',
+              texto: 'Reducir los costos financieros.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Realizar actividades de control interno.',
+              texto: 'Establecer la estrategia de mercadeo.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
         },
         {
           id: 15,
-          texto: 'La matriz de marco lógico es una herramienta que:',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: 'La normatividad agropecuaria tiene como objetivo:',
+          imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Organiza objetivos, indicadores, medios de verificación y supuestos.',
-              esCorrecta: true,
+              texto: 'Identificar la demanda.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Calcula exclusivamente costos de producción.',
+              texto: 'Determinar el flujo de caja.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Determina el número de trabajadores requeridos.',
+              texto: 'Elaborar el organigrama empresarial.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Define los precios de venta.',
-              esCorrecta: false,
+              texto: 'Regular las actividades del sector agropecuario.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
         },
         {
           id: 16,
-          texto: 'Los indicadores en la matriz de marco lógico sirven para:',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          texto:
+            '¿Cuál de las siguientes corresponde a un tipo de empresa reconocido en Colombia?',
+          imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Medir el avance y cumplimiento de los objetivos.',
+              texto: 'Sociedad por Acciones Simplificada (SAS).',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Calcular únicamente impuestos.',
+              texto: 'Asociación Temporal de Producción.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Elaborar contratos laborales.',
+              texto: 'Cooperativa Informal de Negocios.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Determinar la ubicación del proyecto.',
+              texto: 'Grupo Empresarial Rural Autónomo.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
         },
         {
           id: 17,
-          texto: 'Los medios de verificación corresponden a:',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          texto: 'La contratación en una empresa permite:',
+          imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Las actividades operativas del proyecto.',
+              texto: 'Definir la ubicación del proyecto.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Las fuentes donde se obtiene la información para comprobar los indicadores.',
-              esCorrecta: true,
-            },
-            {
-              id: 'c',
-              texto: 'Los recursos financieros disponibles.',
+              texto: 'Calcular los ingresos esperados.',
               esCorrecta: false,
             },
             {
+              id: 'c',
+              texto:
+                'Establecer formalmente las relaciones laborales o comerciales.',
+              esCorrecta: true,
+            },
+            {
               id: 'd',
-              texto: 'Las estrategias de comercialización.',
+              texto: 'Elaborar indicadores ambientales.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
         },
         {
           id: 18,
-          texto: 'En el marco lógico, los supuestos son:',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          texto: 'El estudio ambiental busca principalmente:',
+          imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Recursos económicos asignados al proyecto.',
+              texto: 'Determinar el precio del producto.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Actividades programadas en el cronograma.',
+              texto: 'Establecer la estructura organizacional.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto:
-                'Condiciones externas necesarias para el logro de los objetivos.',
-              esCorrecta: true,
+              texto: 'Calcular la rentabilidad financiera.',
+              esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Indicadores de rentabilidad.',
-              esCorrecta: false,
+              texto:
+                'Identificar y gestionar los impactos ambientales del proyecto.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
         },
         {
           id: 19,
-          texto: 'El análisis de riesgos permite:',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          texto: 'La legislación ambiental establece:',
+          imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'Identificar situaciones que pueden afectar el logro de los objetivos del proyecto.',
+                'Las normas para la protección y conservación de los recursos naturales.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Incrementar automáticamente el presupuesto.',
+              texto: 'Los precios máximos de los productos agropecuarios.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Determinar el precio de los productos agropecuarios.',
+              texto: 'La estructura jurídica de las empresas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Elaborar únicamente informes administrativos.',
+              texto: 'Los procedimientos de contratación laboral.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
         },
         {
           id: 20,
-          texto:
-            'El plan operativo y el presupuesto general del proyecto permiten:',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          texto: 'El flujo de caja es una herramienta financiera que permite:',
+          imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Organizar actividades, recursos, tiempos y costos requeridos para la ejecución.',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Definir únicamente las fuentes de financiación.',
+              texto: 'Identificar impactos ambientales.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto:
+                'Registrar y proyectar ingresos y egresos de dinero en un período determinado.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'Establecer exclusivamente indicadores de gestión.',
+              texto: 'Determinar la estructura organizacional.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Realizar auditorías externas.',
+              texto: 'Analizar la oferta y la demanda.',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se evidencia un adecuado dominio de los conceptos relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
           mensaje_incorrecto:
-            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de proyectos agropecuarios bajo el enfoque metodológico de marco lógico.',
+            'Se recomienda revisar nuevamente los contenidos del componente formativo relacionados con la formulación de los componentes de estudio para proyectos agropecuarios.',
         },
       ],
       mensaje_final_aprobado:
