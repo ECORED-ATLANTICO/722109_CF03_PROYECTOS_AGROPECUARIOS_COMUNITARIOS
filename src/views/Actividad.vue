@@ -21,7 +21,7 @@ export default {
         'Evaluación de conocimientos sobre los componentes de estudio para la formulación de proyectos agropecuarios.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Evaluar la comprensión y aplicación de los conceptos relacionados con los estudios de mercado, técnico, administrativo, ambiental y financiero en la formulación de proyectos agropecuarios, identificando los elementos que determinan la viabilidad y sostenibilidad de una iniciativa productiva de acuerdo con criterios técnicos, normativos y metodológicos.',
+        '<b>Objetivo:</b> evaluar la comprensión y aplicación de los conceptos relacionados con los estudios de mercado, técnico, administrativo, ambiental y financiero en la formulación de proyectos agropecuarios, identificando los elementos que determinan la viabilidad y sostenibilidad de una iniciativa productiva de acuerdo con criterios técnicos, normativos y metodológicos.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
